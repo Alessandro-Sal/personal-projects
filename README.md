@@ -1,4 +1,4 @@
-# [cite_start]🚀 Alessandro Saladino's Personal Projects Portfolio [cite: 1]
+🚀 Alessandro Saladino's Personal Projects Portfolio
 
 Welcome to my personal repository! Here you will find a collection of my coding projects, data analysis experiments, and technical exercises.
 
