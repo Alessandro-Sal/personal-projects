@@ -170,4 +170,4 @@ Il 2022 è l'unico anno negativo per quasi tutti gli indici (rialzo tassi Fed, i
 | File | Descrizione |
 |---|---|
 | `Analisi indici azionari 20200101-20250130.ipynb` | Notebook principale con codice, output e commenti |
-| `README.md` | Questo file |
+| `readme.md` | Questo file |
