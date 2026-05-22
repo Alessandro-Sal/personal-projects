@@ -1,0 +1,740 @@
+Brand,Scarpe,Categoria,Prezzo reale,Prezzo scontato,In sconto,Dettaglio/Colore,Macro_categoria,Micro_categoria
+G,Spherica,Sneakers basse,99.99,89.99,True,black,Sneakers,Sneakers basse
+G,Spherica Actif X4,Sneakers basse,89.99,89.99,False,navy,Sneakers,Sneakers basse
+C,Swift,Sneakers basse,119.99,101.99,True,black,Sneakers,Sneakers basse
+G,Baltmoore,Sneakers basse,99.9,99.9,False,jeans,Sneakers,Sneakers basse
+G,Spherica,Sneakers basse,109.0,87.0,True,dark blue,Sneakers,Sneakers basse
+C,Atticus,Stringate eleganti,99.99,99.99,False,dark tan,Scarpe eleganti,Stringate / Derby
+G,Spherica Plus,Sneakers basse,109.99,92.99,True,navy,Sneakers,Sneakers basse
+G,Symbol,Stringate sportive,109.99,92.99,True,black,Sneakers,Sneakers basse
+G,Navy,Sneakers basse,124.99,124.99,False,,Sneakers,Sneakers basse
+C,Corsley Bar,Scarpe senza lacci,89.99,66.99,True,cola,Sneakers,Sneakers basse
+G,Wells,Sneakers basse,109.9,109.9,False,dark navy,Sneakers,Sneakers basse
+G,Avery,Sneakers basse,99.0,84.0,True,bleu marine,Sneakers,Sneakers basse
+C,Desert,Stringate sportive,129.99,83.99,True,black,Sneakers,Sneakers basse
+G,Snake,Sneakers basse,99.99,74.99,True,beige/ dark orange,Sneakers,Sneakers basse
+G,Flextride,Sneakers basse,99.0,84.0,True,navy,Sneakers,Sneakers basse
+C,Lockford Lace,Sneakers basse,89.95,89.95,False,navy,Sneakers,Sneakers basse
+G,Serifos,Sneakers basse,84.99,84.99,False,dark navy,Sneakers,Sneakers basse
+C,Brown Leather G,Sneakers basse,119.99,107.99,True,,Sneakers,Sneakers basse
+G,Walk Pleasure B,Stringate eleganti,169.9,169.9,False,black,Scarpe eleganti,Stringate / Derby
+C,Corsley Bar,Scarpe senza lacci,89.99,66.99,True,navy,Sneakers,Sneakers basse
+G,Dublin,Stringate eleganti,114.99,97.99,True,black,Scarpe eleganti,Stringate / Derby
+G,Federico,Scarpe senza lacci,95.9,95.9,False,black,Sneakers,Sneakers basse
+G,Spherica Actif,Sneakers basse,119.9,119.9,False,dove grey dark navy,Sneakers,Sneakers basse
+C,Wallabee,Stringate sportive,111.99,111.99,False,dark brown,Sneakers,Sneakers basse
+G,Snake,Scarpe senza lacci,99.99,99.99,False,navy,Sneakers,Sneakers basse
+G,Symbol,Scarpe senza lacci,109.99,81.99,True,black,Sneakers,Sneakers basse
+G,Snake,Sneakers basse,99.99,89.99,True,dark grey,Sneakers,Sneakers basse
+C,Torhill Hi,Stringate sportive,129.99,83.99,True,dark sand,Sneakers,Sneakers basse
+C,Wallabee,Stringate sportive,119.99,89.99,True,cola,Sneakers,Sneakers basse
+G,Flextride Plus,Sneakers basse,99.9,99.9,False,navy,Sneakers,Sneakers basse
+G,Spherica,Sneakers basse,99.99,84.99,True,navy/jeans,Sneakers,Sneakers basse
+G,Spherica,Sneakers basse,109.9,109.9,False,dove grey,Sneakers,Sneakers basse
+C,Wallabee,Stringate sportive,149.99,104.99,True,dark green,Sneakers,Sneakers basse
+G,Flextride Plus,Sneakers basse,109.99,92.99,True,avio,Sneakers,Sneakers basse
+C,Courtlite2,Sneakers basse,99.99,99.99,False,off white,Sneakers,Sneakers basse
+G,New Damon,Mocassini eleganti,109.99,98.99,True,black,Mocassini,Mocassini
+G,Renan,Sneakers basse,119.9,119.9,False,sand white,Sneakers,Sneakers basse
+G,Spherica Plus,Sneakers basse,109.9,109.9,False,sand,Sneakers,Sneakers basse
+G,Flextride R,Sneakers basse,99.9,99.9,False,dark blue,Sneakers,Sneakers basse
+C,Wallabee,Stringate sportive,119.99,119.99,False,beeswax,Sneakers,Sneakers basse
+G,Renan,Sneakers basse,119.9,119.9,False,black,Sneakers,Sneakers basse
+G,Avery,Sneakers basse,99.9,99.9,False,brown cotto,Sneakers,Sneakers basse
+G,Spherica Plus,Sneakers basse,109.0,93.0,True,yellow,Sneakers,Sneakers basse
+C,Lifestyle- Torhill,Sneakers basse,119.99,119.99,False,dark sand nubuck g,Sneakers,Sneakers basse
+C,Torhill Lo,Stringate sportive,109.99,109.99,False,dark sand,Sneakers,Sneakers basse
+G,Avery,Sneakers basse,99.9,99.9,False,light grey,Sneakers,Sneakers basse
+G,Snake,Scarpe senza lacci,91.18,91.18,False,beige/dark orange,Sneakers,Sneakers basse
+G,Dark Blue,Sneakers basse,63.9,63.9,False,,Sneakers,Sneakers basse
+C,Howard Walk,Stringate eleganti,99.99,99.99,False,black,Scarpe eleganti,Stringate / Derby
+NG,Bianco,Sneakers basse,109.99,109.99,False,,Sneakers,Sneakers basse
+G,Spherica Plus,Sneakers basse,109.9,109.9,False,black,Sneakers,Sneakers basse
+C,Pace,Sneakers basse,129.99,83.99,True,sage,Sneakers,Sneakers basse
+G,Flextride Plus,Sneakers basse,109.99,92.99,True,navy,Sneakers,Sneakers basse
+C,Lockford Lace,Sneakers basse,89.99,66.99,True,dark sand,Sneakers,Sneakers basse
+NG,Incanto,Sneakers basse,139.0,109.99,True,,Sneakers,Sneakers basse
+G,Deiven,Sneakers basse,109.9,79.5,True,white,Sneakers,Sneakers basse
+C,Desert,Stringate sportive,129.99,96.99,True,sand,Sneakers,Sneakers basse
+G,Spherica,Sneakers basse,109.9,109.9,False,navy,Sneakers,Sneakers basse
+G,Snake Original,Sneakers basse,109.9,109.9,False,avio,Sneakers,Sneakers basse
+G,Black,Stringate eleganti,99.99,84.99,True,,Scarpe eleganti,Stringate / Derby
+C,Derby Steadwell,Stringate eleganti,82.94,82.94,False,nero,Scarpe eleganti,Stringate / Derby
+G,Flextride S,Ciabattine,89.9,89.9,False,musk,Ciabatte & Pantofole,Ciabatte
+G,Flextride,Sneakers basse,99.9,99.9,False,white light grey,Sneakers,Sneakers basse
+C,Torhill Lo,Stringate sportive,119.9,107.91,True,black,Sneakers,Sneakers basse
+G,Browncotto,Sneakers basse,109.99,92.99,True,,Sneakers,Sneakers basse
+NG,Blu,Sneakers basse,199.9,158.95,True,,Sneakers,Sneakers basse
+G,Velletri,Sneakers basse,139.9,139.9,False,cognac,Sneakers,Sneakers basse
+G,U65Mac01022,Sneakers basse,99.0,79.2,True,beige,Sneakers,Sneakers basse
+G,Flextride Plus,Sneakers basse,87.9,87.9,False,dove grey,Sneakers,Sneakers basse
+G,Spherica Plus,Sneakers basse,104.99,104.99,False,papyrus,Sneakers,Sneakers basse
+C,Wallabee,Stringate sportive,129.99,101.99,True,black,Sneakers,Sneakers basse
+G,Flextride Plus,Sneakers basse,99.9,99.9,False,jeans,Sneakers,Sneakers basse
+G,Spherica Ecub,Scarpe senza lacci,119.9,119.9,False,sand,Sneakers,Sneakers basse
+G,Snake Original,Sneakers basse,109.9,109.9,False,green,Sneakers,Sneakers basse
+C,Desert,Stringate sportive,119.99,119.99,False,black,Sneakers,Sneakers basse
+G,Gladwin,Stringate eleganti,99.9,99.9,False,black (u024wa00043c9999),Scarpe eleganti,Stringate / Derby
+G,Barberigo,Stringate,145.0,145.0,False,black,Scarpe eleganti,Stringate / Derby
+C,Howard Edge G,Mocassini eleganti,99.99,99.99,False,black,Mocassini,Mocassini
+G,Simon,Scarpe senza lacci,99.99,74.99,True,black,Sneakers,Sneakers basse
+G,Spherica Actif,Sneakers basse,119.9,119.9,False,navy black,Sneakers,Sneakers basse
+G,Dark Coffee,Sandali da trekking,99.99,99.99,False,,Sandali,Sandali sportivi
+C,Wallabee,Stringate sportive,139.99,96.99,True,black,Sneakers,Sneakers basse
+G,Flextride,Sneakers basse,99.0,84.0,True,dove grey,Sneakers,Sneakers basse
+G,Claudio,Stringate sportive,74.9,74.9,False,dk coffee c6024,Sneakers,Sneakers basse
+G,Walk Pleasure,Stringate,169.9,169.9,False,navy,Scarpe eleganti,Stringate / Derby
+G,Flextride Plus,Sneakers basse,99.9,99.9,False,light olive green,Sneakers,Sneakers basse
+G,Walee,Sneakers basse,94.99,94.99,False,blau,Sneakers,Sneakers basse
+G,Spherica Plus,Sneakers basse,109.99,92.99,True,dark grey,Sneakers,Sneakers basse
+G,Mokassin U Istria  Blau,Scarpe senza lacci,99.0,84.0,True,navy,Sneakers,Sneakers basse
+G,Spherica,Sneakers basse,99.9,99.9,False,light navy,Sneakers,Sneakers basse
+G,Flextride R,Sneakers basse,99.9,99.9,False,musk,Sneakers,Sneakers basse
+G,Multi-Coloured,Sneakers basse,101.15,101.15,False,,Sneakers,Sneakers basse
+G,Flextride,Sneakers basse,99.9,99.9,False,anthracite,Sneakers,Sneakers basse
+G,Regio,Sneakers basse,139.9,139.9,False,cognac,Sneakers,Sneakers basse
+G,Flextride R,Sneakers basse,99.9,99.9,False,screziato-mottled black,Sneakers,Sneakers basse
+G,U65H5A0Bu11,Sneakers basse,99.0,79.2,True,blue,Sneakers,Sneakers basse
+C,Swift,Sneakers basse,120.0,102.0,True,white,Sneakers,Sneakers basse
+G,Navy,Sneakers basse,109.9,109.9,False,,Sneakers,Sneakers basse
+G,Spherica,Sneakers basse,99.9,99.9,False,black,Sneakers,Sneakers basse
+C,Desert,Stringate sportive,119.99,119.99,False,cola,Sneakers,Sneakers basse
+C,Desert,Stringate sportive,119.99,107.99,True,brown,Sneakers,Sneakers basse
+G,Spherica Actif X4,Sneakers basse,119.0,101.0,True,white,Sneakers,Sneakers basse
+C,Torhill Lo,Stringate sportive,119.99,101.99,True,green,Sneakers,Sneakers basse
+C,Lockford,Stringate sportive,89.95,89.95,False,light blue,Sneakers,Sneakers basse
+C,Wallabee,Stringate sportive,104.0,104.0,False,maple,Sneakers,Sneakers basse
+G,Spherica Ecub-1 B,Sneakers basse,139.9,139.9,False,light brown,Sneakers,Sneakers basse
+G,Spherica Actif X1,Sneakers basse,119.0,101.0,True,sand,Sneakers,Sneakers basse
+G,Baltmoore,Scarpe skate,99.9,99.9,False,white,Sneakers,Sneakers basse
+G,Flextride,Scarpe da barca,99.99,84.99,True,sand,Mocassini,Boat shoes
+G,Snake,Sneakers basse,109.99,70.99,True,blue,Sneakers,Sneakers basse
+G,Spherica Actif,Sneakers basse,119.9,119.9,False,navy dark avio,Sneakers,Sneakers basse
+C,Desert,Stivaletti stringati,119.99,119.99,False,beeswax,Stivali & Stivaletti,Stivaletti
+G,Flextride Plus,Sneakers basse,109.9,109.9,False,sand umaac,Sneakers,Sneakers basse
+G,Baltmoore,Sneakers basse,99.0,79.2,True,sand,Sneakers,Sneakers basse
+C,Charmouth Lace,Scarpe da barca,89.99,89.99,False,tan,Mocassini,Boat shoes
+G,Baltmoore,Sneakers basse,84.99,84.99,False,navy,Sneakers,Sneakers basse
+G,Snake,Scarpe senza lacci,99.99,84.99,True,dark grey/off white,Sneakers,Sneakers basse
+C,Torhill Lace,Stringate sportive,119.7,119.7,False,navy,Sneakers,Sneakers basse
+G,Barberigo,Stringate,139.99,118.99,True,black,Scarpe eleganti,Stringate / Derby
+G,Flextride Plus,Scarpe senza lacci,92.5,92.5,False,black,Sneakers,Sneakers basse
+C,Un Costa Lace,Sneakers basse,110.0,110.0,False,british tan,Sneakers,Sneakers basse
+G,Navy,Sneakers basse,139.9,139.9,False,,Sneakers,Sneakers basse
+C,Cleyhill,Scarpe da barca,119.99,119.99,False,brown,Mocassini,Boat shoes
+NG,Blu,Stringate eleganti,143.55,143.55,False,,Scarpe eleganti,Stringate / Derby
+G,Flextride Plus,Scarpe senza lacci,109.9,109.9,False,white,Sneakers,Sneakers basse
+G,Plus,Sneakers basse,139.99,104.99,True,navy/blue,Sneakers,Sneakers basse
+C,Khaki,Sneakers basse,74.99,74.99,False,,Sneakers,Sneakers basse
+C,Torhill Lo,Stringate sportive,109.99,92.99,True,navy,Sneakers,Sneakers basse
+G,Barberigo,Stringate,139.99,118.99,True,coffee,Scarpe eleganti,Stringate / Derby
+C,Torhill Lo,Stringate sportive,109.99,92.99,True,white,Sneakers,Sneakers basse
+G,Flextride Plus,Scarpe senza lacci,109.9,109.9,False,navy,Sneakers,Sneakers basse
+G,Brown,Scarpe senza lacci,74.9,74.9,False,,Sneakers,Sneakers basse
+C,Off White Suede G,Sneakers basse,109.99,92.99,True,,Sneakers,Sneakers basse
+C,Sneaker,Sneakers basse,79.0,70.0,True,navy,Sneakers,Sneakers basse
+C,Cleyhill,Stringate sportive,119.99,89.99,True,black,Sneakers,Sneakers basse
+C,Lifestyle-Solevana Style,Sneakers basse,85.0,85.0,False,sand g,Sneakers,Sneakers basse
+G,Spherica Ec,Mocassini,119.99,101.99,True,dark navy,Mocassini,Mocassini
+G,Deiven,Sneakers basse,109.9,109.9,False,light brown,Sneakers,Sneakers basse
+G,Plus,Sneakers basse,139.99,83.99,True,sand/yellow,Sneakers,Sneakers basse
+G,Spherica Ec12,Sneakers basse,119.9,119.9,False,navy,Sneakers,Sneakers basse
+G,Spherica,Sneakers basse,99.9,99.9,False,light grey grey,Sneakers,Sneakers basse
+C,Pace Rise,Sneakers basse,129.99,70.99,True,white,Sneakers,Sneakers basse
+G,Spherica,Sneakers basse,129.9,129.9,False,cognac,Sneakers,Sneakers basse
+C,Torhill Lo,Stringate sportive,119.99,89.99,True,red,Sneakers,Sneakers basse
+C,Lockford Easy,Scarpe senza lacci,81.0,81.0,False,navy leather,Sneakers,Sneakers basse
+C,Charmouth Lace,Scarpe da barca,89.99,89.99,False,brown,Mocassini,Boat shoes
+C,Torhill Lo,Stringate sportive,109.99,109.99,False,cola suede,Sneakers,Sneakers basse
+C,Desert,Stringate sportive,129.99,96.99,True,sand,Sneakers,Sneakers basse
+NG,Incanto,Sneakers basse,145.0,123.0,True,,Sneakers,Sneakers basse
+C,Lite Run,Sneakers basse,109.0,96.0,True,blau,Sneakers,Sneakers basse
+C,Pace Rise,Sneakers basse,90.99,90.99,False,black,Sneakers,Sneakers basse
+G,Serifos,Sneakers basse,99.9,99.9,False,dark blue,Sneakers,Sneakers basse
+G,Walk Pleasure B,Stringate eleganti,169.9,169.9,False,cognac,Scarpe eleganti,Stringate / Derby
+C,Cleyhill,Scarpe da barca,119.99,89.99,True,navy,Mocassini,Boat shoes
+G,Flextride R,Sneakers basse,99.9,99.9,False,navy,Sneakers,Sneakers basse
+C,Courtlite2 Run,Sneakers basse,120.0,95.0,True,olive,Sneakers,Sneakers basse
+G,Blau,Mocassini,119.9,119.9,False,,Mocassini,Mocassini
+G,Aerantis Plus,Sneakers basse,149.99,111.99,True,white,Sneakers,Sneakers basse
+G,Siron,Scarpe senza lacci,99.0,84.15,True,dove grey,Sneakers,Sneakers basse
+G,Recanati,Mocassini eleganti,129.9,129.9,False,wine,Mocassini,Mocassini
+G,Capitale,Stringate eleganti,199.9,199.9,False,black,Scarpe eleganti,Stringate / Derby
+C,Wallabee,Stringate sportive,139.99,96.99,True,maple,Sneakers,Sneakers basse
+G,Braun,Mocassini,119.9,119.9,False,,Mocassini,Mocassini
+G,Black Military,Sneakers basse,119.9,119.9,False,,Sneakers,Sneakers basse
+G,Serifos,Sneakers basse,89.9,89.9,False,dove grey,Sneakers,Sneakers basse
+G,Spherica,Sneakers basse,103.9,103.9,False,black,Sneakers,Sneakers basse
+C,Torhill Lo Eu,Stringate sportive,108.0,108.0,False,blau,Sneakers,Sneakers basse
+G,Dublin,Stringate eleganti,98.78,98.78,False,black urcc,Scarpe eleganti,Stringate / Derby
+G,Iacopo,Stringate eleganti,139.99,104.99,True,cognac,Scarpe eleganti,Stringate / Derby
+G,Urbanglider,Sneakers basse,119.99,119.99,False,navy,Sneakers,Sneakers basse
+G,Light Olive Green,Scarpe da barca,99.9,99.9,False,,Mocassini,Boat shoes
+C,Cleyhill,Scarpe da barca,119.99,89.99,True,black,Mocassini,Boat shoes
+G,Snake Original,Sneakers basse,81.99,81.99,False,navy,Sneakers,Sneakers basse
+C,Torhill Lo,Stringate sportive,102.0,102.0,False,olive suede,Sneakers,Sneakers basse
+G,Spherica,Sneakers basse,99.9,99.9,False,navy dark avio,Sneakers,Sneakers basse
+C,Wallabee,Stringate sportive,129.99,96.99,True,dark brown,Sneakers,Sneakers basse
+C,Craft James Lo,Scarpe senza lacci,160.0,143.2,True,black,Sneakers,Sneakers basse
+G,Recanati,Mocassini eleganti,129.9,129.9,False,black,Mocassini,Mocassini
+G,Barberigo,Stringate,139.99,104.99,True,black,Scarpe eleganti,Stringate / Derby
+G,Vittour Plus A,Sneakers basse,90.0,90.0,False,dark navy-navy,Sneakers,Sneakers basse
+G,Flextride Plus,Sneakers basse,99.9,99.9,False,dove grey,Sneakers,Sneakers basse
+G,Xand 2S,Sandali,89.9,89.9,False,black,Sandali,Sandali aperti
+G,Herren  U Spherica Plus Fast In U65Mpe 06Kek,Sneakers basse,119.9,119.9,False,off white brown,Sneakers,Sneakers basse
+C,Braun,Stringate,110.0,93.5,True,,Scarpe eleganti,Stringate / Derby
+C,- Torford Easy 47,Mocassini,90.0,76.5,True,braun,Mocassini,Mocassini
+G,Deiven,Sneakers basse,109.9,109.9,False,black,Sneakers,Sneakers basse
+G,Sneaker,Sneakers basse,118.95,118.95,False,white/navy,Sneakers,Sneakers basse
+G,Spherica,Scarpe senza lacci,135.0,135.0,False,navy,Sneakers,Sneakers basse
+C,Goswell,Sneakers basse,109.0,96.0,True,schwarz,Sneakers,Sneakers basse
+C,Wallabee,Stringate sportive,159.99,135.99,True,maple,Sneakers,Sneakers basse
+G,Sand C,Sneakers basse,99.9,99.9,False,,Sneakers,Sneakers basse
+C,Polden,Stringate sportive,129.98,116.95,True,navy,Sneakers,Sneakers basse
+G,Iacopo,Stringate eleganti,139.9,139.9,False,black,Scarpe eleganti,Stringate / Derby
+G,Spherica Ecub,Sneakers basse,139.9,139.9,False,navy,Sneakers,Sneakers basse
+G,Symbol,Stringate sportive,109.9,109.9,False,black,Sneakers,Sneakers basse
+G,Baltmoore,Sneakers basse,109.9,109.9,False,bleu marine,Sneakers,Sneakers basse
+G,Dark Avio Navy,Sneakers basse,119.0,101.0,True,,Sneakers,Sneakers basse
+G,Noir,Sneakers basse,88.95,88.95,False,,Sneakers,Sneakers basse
+G,Spherica Actif,Sneakers basse,119.9,119.9,False,white musk,Sneakers,Sneakers basse
+G,Ghita,Sandali,79.9,79.9,False,dark coffee,Sandali,Sandali aperti
+C,Meare Walla,Stringate,109.99,109.99,False,maple suede,Scarpe eleganti,Stringate / Derby
+G,Spherica Ec,Mocassini,129.9,129.9,False,dark brown,Mocassini,Mocassini
+C,Polden,Stringate sportive,129.98,129.98,False,cola,Sneakers,Sneakers basse
+C,Maple,Stringate sportive,159.99,159.99,False,,Sneakers,Sneakers basse
+C,Cleyhill,Stringate sportive,108.0,108.0,False,dark sand,Sneakers,Sneakers basse
+G,Dove Grey C,Sneakers basse,109.9,109.9,False,,Sneakers,Sneakers basse
+G,Sneaker,Sneakers basse,99.0,84.0,True,dk avio navy c kf,Sneakers,Sneakers basse
+G,Navy,Sneakers basse,109.9,109.9,False,,Sneakers,Sneakers basse
+C,Desert,Stivaletti stringati,134.25,134.25,False,sand,Stivali & Stivaletti,Stivaletti
+G,Terreno Grip,Sandali da trekking,79.9,79.9,False,navy,Sandali,Sandali sportivi
+G,Schwarz,Mocassini,129.99,109.99,True,,Mocassini,Mocassini
+G,Spherica Ec,Mocassini,129.9,129.9,False,dove grey,Mocassini,Mocassini
+C,Wallabee,Stringate sportive,129.99,109.99,True,navy,Sneakers,Sneakers basse
+G,Spherica Actif X1,Sneakers basse,119.0,101.0,True,musk,Sneakers,Sneakers basse
+G,Flextride,Sneakers basse,87.9,87.9,False,black,Sneakers,Sneakers basse
+C,Torview,Stringate sportive,139.99,83.99,True,navy,Sneakers,Sneakers basse
+G,Dynamia,Sneakers basse,145.0,145.0,False,white,Sneakers,Sneakers basse
+G,Metropoli,Sneakers basse,145.0,145.0,False,white natural,Sneakers,Sneakers basse
+G,Strada,Sandali da trekking,79.99,67.99,True,brown/sand,Sandali,Sandali sportivi
+C,Desert,Stivaletti stringati,110.0,93.5,True,beige,Stivali & Stivaletti,Stivaletti
+G,Urbanglider,Sneakers basse,125.0,125.0,False,sand,Sneakers,Sneakers basse
+G,Black,Sneakers basse,79.9,79.9,False,,Sneakers,Sneakers basse
+NG,Talpa,Scarpe senza lacci,139.5,139.5,False,,Sneakers,Sneakers basse
+G,Spherica Plus,Sneakers basse,139.9,139.9,False,black,Sneakers,Sneakers basse
+G,Black,Stringate eleganti,99.9,99.9,False,,Scarpe eleganti,Stringate / Derby
+G,Spherica Ecub,Sneakers basse,139.9,139.9,False,navy,Sneakers,Sneakers basse
+C,Wallabee,Stringate sportive,159.99,159.99,False,grey,Sneakers,Sneakers basse
+C,Clarks Lifestyle-Schuhe M Radwell Tie,Sneakers basse,99.95,99.95,False,navy suede,Sneakers,Sneakers basse
+G,Flextride F Plus,Sneakers basse,109.0,87.2,True,navy,Sneakers,Sneakers basse
+G,Spherica Actif X1,Sneakers basse,119.9,119.9,False,light grey,Sneakers,Sneakers basse
+G,Browncotto,Sandali,89.99,89.99,False,,Sandali,Sandali aperti
+G,Spherica Plus,Sneakers basse,109.9,109.9,False,musk u mpa kekc,Sneakers,Sneakers basse
+G,Metropoli,Sneakers basse,145.0,145.0,False,navy dark avio,Sneakers,Sneakers basse
+G,Spherica,Sneakers basse,99.9,99.9,False,grün,Sneakers,Sneakers basse
+G,Recanati,Mocassini eleganti,119.0,101.0,True,black,Mocassini,Mocassini
+G,Spherica Ecub-1 B,Sneakers basse,139.0,118.0,True,papyrus,Sneakers,Sneakers basse
+G,S Strada,Sandali da trekking,79.9,79.9,False,brown,Sandali,Sandali sportivi
+G,Spherica Actif,Sneakers basse,119.9,119.9,False,light grey/dark grey,Sneakers,Sneakers basse
+G,Spherica,Scarpe senza lacci,135.0,135.0,False,dark brown,Sneakers,Sneakers basse
+G,Serifos,Mocassini,109.9,109.9,False,light brown,Mocassini,Mocassini
+G,Dynamia,Sneakers basse,145.0,145.0,False,white natural,Sneakers,Sneakers basse
+C,Sneaker Torhill,Sneakers basse,119.95,119.95,False,weiß,Sneakers,Sneakers basse
+C,Polden Moc,Stringate sportive,85.0,85.0,False,verde,Sneakers,Sneakers basse
+G,Dynamia,Sneakers basse,145.0,145.0,False,navy,Sneakers,Sneakers basse
+G,Strada,Sandali da trekking,79.9,79.9,False,black,Sandali,Sandali sportivi
+G,Baltmoore,Scarpe skate,98.96,98.96,False,black,Sneakers,Sneakers basse
+G,Iacopo,Stringate eleganti,139.9,139.9,False,black,Scarpe eleganti,Stringate / Derby
+NG,Avio,Sneakers basse,199.9,168.95,True,,Sneakers,Sneakers basse
+G,Sedral Court,Sneakers basse,119.9,119.9,False,natural white,Sneakers,Sneakers basse
+G,Medos,Mocassini eleganti,199.9,199.9,False,light brown,Mocassini,Mocassini
+C,Godney,Scarpe da barca,123.5,123.5,False,brown,Mocassini,Boat shoes
+C,Dark Sand Nubuck,Sneakers basse,140.0,140.0,False,,Sneakers,Sneakers basse
+NG,Nero,Stringate eleganti,159.0,135.0,True,,Scarpe eleganti,Stringate / Derby
+C,Courtlite2 Run,Sneakers basse,171.0,171.0,False,grey,Sneakers,Sneakers basse
+G,Baltmoore,Sneakers basse,88.95,88.95,False,blue c,Sneakers,Sneakers basse
+C,Loafer Lockford Easy,Scarpe senza lacci,81.0,81.0,False,dark sand suede,Sneakers,Sneakers basse
+G,Serifos,Sneakers basse,99.9,99.9,False,off white/navy,Sneakers,Sneakers basse
+G,Strada,Sandali da trekking,79.9,79.9,False,sand/navy,Sandali,Sandali sportivi
+G,Spherica Actif,Sneakers basse,119.9,119.9,False,white off white,Sneakers,Sneakers basse
+NG,Nero,Mocassini eleganti,159.5,135.58,True,,Mocassini,Mocassini
+G,S Strada,Sandali da trekking,79.9,59.9,True,black,Sandali,Sandali sportivi
+G,Spherica Actif X1,Sneakers basse,119.9,119.9,False,navy,Sneakers,Sneakers basse
+C,Wallabee,Stringate sportive,159.99,159.99,False,brown,Sneakers,Sneakers basse
+NG,Mocassini,Scarpe senza lacci,142.0,142.0,False,marrone,Sneakers,Sneakers basse
+G,Spherica Ecub,Sneakers basse,139.9,139.9,False,papyrus,Sneakers,Sneakers basse
+G,Schwarz,Sneakers basse,124.14,95.42,True,,Sneakers,Sneakers basse
+G,Spherica Ecub,Scarpe senza lacci,119.9,119.9,False,navy,Sneakers,Sneakers basse
+G,Walk Pleasure B,Stringate,169.9,169.9,False,black,Scarpe eleganti,Stringate / Derby
+G,Spherica Ecub,Scarpe senza lacci,119.9,119.9,False,musk,Sneakers,Sneakers basse
+G,Spherica Ec17,Scarpe senza lacci,135.0,135.0,False,toffee,Sneakers,Sneakers basse
+G,Vittour,Sneakers basse,89.9,89.9,False,dark blue,Sneakers,Sneakers basse
+G,Flextride Plus,Scarpe senza lacci,129.9,96.95,True,light brown,Sneakers,Sneakers basse
+G,Black,Stivaletti,104.9,104.9,False,,Stivali & Stivaletti,Stivaletti
+C,Dark Sand Lea,Stringate sportive,107.91,107.91,False,,Sneakers,Sneakers basse
+C,Sneaker,Sneakers basse,139.98,118.95,True,navy leather,Sneakers,Sneakers basse
+G,Vittour Plus A,Sneakers basse,90.0,90.0,False,off white-dark grey,Sneakers,Sneakers basse
+C,Un Aldric Lace,Stringate eleganti,113.99,113.99,False,black,Scarpe eleganti,Stringate / Derby
+C,Wallabee,Stringate sportive,149.99,89.99,True,blue/green,Sneakers,Sneakers basse
+G,Sneaker Spherica Plus,Sneakers basse,109.9,109.9,False,weiß,Sneakers,Sneakers basse
+G,Sedral Court,Sneakers basse,119.9,119.9,False,navy white,Sneakers,Sneakers basse
+C,Wallabee Evo,Stringate,92.12,92.12,False,white leather,Scarpe eleganti,Stringate / Derby
+G,Black,Scarpe senza lacci,139.9,139.9,False,,Sneakers,Sneakers basse
+G,Regio,Sneakers basse,139.9,139.9,False,coffee,Sneakers,Sneakers basse
+G,Siron,Scarpe senza lacci,99.99,89.99,True,dark brown,Sneakers,Sneakers basse
+G,Sedral Court,Sneakers basse,119.9,119.9,False,white/tan,Sneakers,Sneakers basse
+G,Monet,Mocassini,129.99,116.99,True,coffee,Mocassini,Mocassini
+C,Lockford Boat,Stringate sportive,90.0,90.0,False,blau,Sneakers,Sneakers basse
+G,Spherica,Stivaletti,139.9,110.0,True,black,Stivali & Stivaletti,Stivaletti
+G,Erice,Ciabattine,69.9,69.9,False,coffee,Ciabatte & Pantofole,Ciabatte
+C,Dark Sand Combi,Scarpe da barca,118.94,118.94,False,,Mocassini,Boat shoes
+G,Deiven,Sneakers basse,81.95,81.95,False,black,Sneakers,Sneakers basse
+G,Spherica,Scarpe senza lacci,129.9,129.9,False,black,Sneakers,Sneakers basse
+G,Spherica Plus,Sneakers basse,99.95,99.95,False,military coffee,Sneakers,Sneakers basse
+C,Desert Bt Evo,Stivaletti stringati,134.84,134.84,False,noir,Stivali & Stivaletti,Stivaletti
+G,Spherica,Scarpe senza lacci,135.0,135.0,False,navy,Sneakers,Sneakers basse
+G,Aerantis Plus,Sneakers basse,149.99,126.99,True,navy,Sneakers,Sneakers basse
+G,Claro,Sandali da trekking,79.9,79.9,False,marron claro,Sandali,Sandali sportivi
+G,Strada,Sandali da trekking,79.9,79.9,False,navy/dark grey,Sandali,Sandali sportivi
+G,Black,Stivaletti stringati,149.9,109.95,True,,Stivali & Stivaletti,Stivaletti
+G,Baltmoore,Sneakers basse,99.9,99.9,False,light olive green,Sneakers,Sneakers basse
+G,Massimiano,Stivaletti,109.9,81.95,True,navy uhbc,Stivali & Stivaletti,Stivaletti
+G,Flextride S,Ciabattine,89.99,75.99,True,black,Ciabatte & Pantofole,Ciabatte
+G,Barberigo,Stringate,145.0,145.0,False,cognac,Scarpe eleganti,Stringate / Derby
+C,Schuhe Radwell Tie,Sneakers basse,99.95,99.95,False,brown leather,Sneakers,Sneakers basse
+G,Parnaiba,Ciabattine,79.99,79.99,False,black,Ciabatte & Pantofole,Ciabatte
+G,Black,Sneakers basse,149.9,149.9,False,,Sneakers,Sneakers basse
+G,Walk Pleasure B,Stringate,169.9,169.9,False,cognac,Scarpe eleganti,Stringate / Derby
+G,Medos,Mocassini eleganti,199.9,199.9,False,coffee,Mocassini,Mocassini
+G,Capitale,Stringate eleganti,199.9,199.9,False,black,Scarpe eleganti,Stringate / Derby
+G,Ghita,Ciabattine,89.9,89.9,False,coffee,Ciabatte & Pantofole,Ciabatte
+C,Craftrally Ace,Sneakers basse,109.95,109.95,False,black sde,Sneakers,Sneakers basse
+G,Elver,Sneakers basse,114.99,114.99,False,azul,Sneakers,Sneakers basse
+G,Renan,Sneakers basse,119.9,119.9,False,braun,Sneakers,Sneakers basse
+G,Spherica Ec1,Stivaletti,90.93,90.93,False,navy,Stivali & Stivaletti,Stivaletti
+G,Spherica Actif,Sneakers basse,119.9,119.9,False,navy,Sneakers,Sneakers basse
+G,Spherica Actif,Sneakers basse,119.9,119.9,False,orange/black,Sneakers,Sneakers basse
+C,Meare Walla,Stringate sportive,109.99,98.99,True,black,Sneakers,Sneakers basse
+G,Dove Grey,Mocassini,99.0,84.0,True,,Mocassini,Mocassini
+G,Recanati,Mocassini eleganti,119.9,119.9,False,coffee,Mocassini,Mocassini
+G,Elver,Sneakers basse,114.99,114.99,False,marron,Sneakers,Sneakers basse
+G,White Brown C,Sneakers basse,110.45,110.45,False,,Sneakers,Sneakers basse
+G,Istria,Mocassini,99.9,99.9,False,dark brown,Mocassini,Mocassini
+G,Affile,Sneakers basse,114.99,114.99,False,blanco,Sneakers,Sneakers basse
+G,Sedral Court,Sneakers basse,119.9,119.9,False,navy,Sneakers,Sneakers basse
+G,Serifos C1Z5Y,Sneakers basse,89.9,89.9,False,white dim,Sneakers,Sneakers basse
+C,Aldwin,Stringate,124.99,124.99,False,grey,Scarpe eleganti,Stringate / Derby
+NG,Bianco,Sneakers basse,159.0,143.1,True,,Sneakers,Sneakers basse
+G,Rieti,Sneakers basse,81.0,81.0,False,grau,Sneakers,Sneakers basse
+G,Snake Original,Sneakers basse,109.9,109.9,False,grey,Sneakers,Sneakers basse
+C,Weaver,Stringate sportive,159.99,159.99,False,maple,Sneakers,Sneakers basse
+G,Avery,Sneakers basse,89.9,89.9,False,light grey,Sneakers,Sneakers basse
+G,Sedral Court,Sneakers basse,119.9,119.9,False,papyrus light sand,Sneakers,Sneakers basse
+G,Walee,Sneakers basse,89.9,89.9,False,mottled light gre,Sneakers,Sneakers basse
+G,Snake Original,Sneakers basse,109.0,87.2,True,sand,Sneakers,Sneakers basse
+G,Affile,Sneakers basse,114.99,114.99,False,azul,Sneakers,Sneakers basse
+C,Torhill Lace,Sneakers basse,119.95,119.95,False,ochre suede,Sneakers,Sneakers basse
+NG,Mocassini,Scarpe senza lacci,165.0,165.0,False,blu,Sneakers,Sneakers basse
+G,Ravex,Sneakers basse,89.9,89.9,False,screziato mottled black,Sneakers,Sneakers basse
+G,Sedral Court,Sneakers basse,119.9,119.9,False,navy,Sneakers,Sneakers basse
+G,Velletri,Sneakers basse,139.9,139.9,False,black,Sneakers,Sneakers basse
+G,Medos,Scarpe senza lacci,199.9,199.9,False,black,Sneakers,Sneakers basse
+G,Spherica Ecub,Scarpe senza lacci,119.9,119.9,False,toffee,Sneakers,Sneakers basse
+G,Meiern,Stivaletti stringati,129.99,96.99,True,black,Stivali & Stivaletti,Stivaletti
+G,Renan,Sneakers basse,119.9,119.9,False,black,Sneakers,Sneakers basse
+G,Jeans C,Scarpe da barca,99.9,99.9,False,,Mocassini,Boat shoes
+G,Velletri,Sneakers basse,139.9,139.9,False,navy,Sneakers,Sneakers basse
+G,Avery,Sneakers basse,79.9,79.9,False,brown cotto,Sneakers,Sneakers basse
+G,Navy C,Sneakers basse,98.72,98.72,False,,Sneakers,Sneakers basse
+G,Flextride R,Sneakers basse,99.9,99.9,False,dark blue,Sneakers,Sneakers basse
+C,Weaver,Stringate sportive,159.99,159.99,False,pink,Sneakers,Sneakers basse
+C,Beige,Stivaletti stringati,119.95,119.95,False,,Stivali & Stivaletti,Stivaletti
+G,Vittour,Sneakers basse,89.9,89.9,False,screziato-mottled black,Sneakers,Sneakers basse
+G,Baltmoore,Sneakers basse,89.9,89.9,False,dove grey,Sneakers,Sneakers basse
+G,Kosmopolis  Grip,Scarpe da barca,119.9,119.9,False,olive,Mocassini,Boat shoes
+C,Sneaker Craftwick,Sneakers basse,129.98,116.95,True,grau,Sneakers,Sneakers basse
+G,Kosmopolis  Grip,Scarpe da barca,89.99,89.99,False,navy,Mocassini,Boat shoes
+G,Gxrn-02,Sneakers basse,135.0,135.0,False,weiß,Sneakers,Sneakers basse
+G,Spherica Actif,Sneakers basse,119.9,119.9,False,lime/green/navy,Sneakers,Sneakers basse
+G,Spherica Plus,Sneakers basse,99.95,99.95,False,navy/avio,Sneakers,Sneakers basse
+G,Spherica Actif,Sneakers basse,119.9,107.0,True,navy,Sneakers,Sneakers basse
+G,Blau,Ciabattine,79.9,79.9,False,,Ciabatte & Pantofole,Ciabatte
+G,Serifos,Mocassini,109.9,109.9,False,dark blue,Mocassini,Mocassini
+G,Baltmoore,Sneakers basse,113.35,113.35,False,musk c,Sneakers,Sneakers basse
+G,Vittour,Sneakers basse,99.9,99.9,False,black,Sneakers,Sneakers basse
+G,Pove,Stivaletti stringati,164.16,113.56,True,dark brown,Stivali & Stivaletti,Stivaletti
+G,Moner W,Mocassini,139.9,139.9,False,black,Mocassini,Mocassini
+G,Musk Black Cbb,Sandali da trekking,70.4,70.4,False,,Sandali,Sandali sportivi
+C,Sneaker Solevana Style,Sneakers basse,85.0,85.0,False,black,Sneakers,Sneakers basse
+G,Spherica Ecub,Sneakers basse,139.9,139.9,False,navy,Sneakers,Sneakers basse
+G,Renan,Sneakers basse,119.9,119.9,False,white,Sneakers,Sneakers basse
+NG,Neve,Sneakers basse,189.9,150.95,True,,Sneakers,Sneakers basse
+G,Renan,Sneakers basse,119.9,119.9,False,navy,Sneakers,Sneakers basse
+G,Urbanglider,Sneakers basse,125.0,125.0,False,musc,Sneakers,Sneakers basse
+C,Walla Boot,Stivaletti stringati,119.99,119.99,False,white,Stivali & Stivaletti,Stivaletti
+G,Flextride S,Sandali da trekking,89.9,89.9,False,navy,Sandali,Sandali sportivi
+G,Blackc,Stivaletti,119.9,99.95,True,,Stivali & Stivaletti,Stivaletti
+G,Flextride S,Sandali da trekking,89.9,89.9,False,dove grey,Sandali,Sandali sportivi
+G,Pantelleria,Scarpe senza lacci,89.9,89.9,False,dove grey,Sneakers,Sneakers basse
+G,Aerantis Plus,Sneakers basse,149.9,149.9,False,coffee,Sneakers,Sneakers basse
+C,Sneaker Bassa Uomo Lockford Lace,Scarpe skate,100.0,100.0,False,grigio,Sneakers,Sneakers basse
+G,Flextride R,Sneakers basse,99.9,99.9,False,screziato-mottled black,Sneakers,Sneakers basse
+G,Snake Original,Sneakers basse,109.9,109.9,False,military/dark grey,Sneakers,Sneakers basse
+G,Avery,Sneakers basse,99.9,99.9,False,azul,Sneakers,Sneakers basse
+G,Branthon A,Sneakers basse,99.9,99.9,False,dark blue,Sneakers,Sneakers basse
+C,Torford Strap,Sandali,103.41,103.41,False,schwarz,Sandali,Sandali aperti
+G,Coffee C,Stivaletti,119.9,83.95,True,,Stivali & Stivaletti,Stivaletti
+C,Wallabee,Stringate sportive,149.99,111.99,True,maple stripe,Sneakers,Sneakers basse
+G,Spherica Ecub,Sneakers basse,89.68,89.68,False,weiß,Sneakers,Sneakers basse
+C,Blau,Sneakers basse,129.98,116.95,True,,Sneakers,Sneakers basse
+G,Renan,Sneakers basse,119.9,119.9,False,navy,Sneakers,Sneakers basse
+G,Avery,Sneakers basse,99.9,99.9,False,screziato-mottled black,Sneakers,Sneakers basse
+G,Ochre Dark Coffee,Sneakers alte,127.9,127.9,False,,Sneakers,Sneakers alte
+C,Wallabee,Stringate sportive,129.99,96.99,True,pale yellow,Sneakers,Sneakers basse
+G,Rieti,Sneakers basse,99.99,99.99,False,verde,Sneakers,Sneakers basse
+G,Brown Cotto/Black,Sneakers basse,134.95,134.95,False,,Sneakers,Sneakers basse
+G,Spherica Actif,Sneakers basse,119.9,119.9,False,dove grey dark navy,Sneakers,Sneakers basse
+G,Spherica Actif,Sneakers basse,119.9,119.9,False,dark avio black,Sneakers,Sneakers basse
+G,Avery,Sneakers basse,99.9,99.9,False,verde,Sneakers,Sneakers basse
+G,Spherica Ecub,Sneakers basse,139.9,139.9,False,musk,Sneakers,Sneakers basse
+C,Wallabee,Stringate sportive,159.99,159.99,False,silver-coloured,Sneakers,Sneakers basse
+G,Snake Original,Sneakers basse,129.98,103.95,True,brick,Sneakers,Sneakers basse
+G,Klaiver,Sneakers basse,89.9,89.9,False,grün,Sneakers,Sneakers basse
+G,Sneaker Gxrn,Sneakers basse,135.0,135.0,False,blau,Sneakers,Sneakers basse
+G,Spherica Actif,Sneakers basse,119.9,119.9,False,bleu marine noir,Sneakers,Sneakers basse
+G,Spherica Ec12,Sneakers basse,119.9,119.9,False,dove grey,Sneakers,Sneakers basse
+G,Vittour Plus A,Sneakers basse,98.96,98.96,False,off white-sand (u659ka0ek14c0866),Sneakers,Sneakers basse
+C,Wallabee,Stringate sportive,159.99,87.99,True,multi-coloured,Sneakers,Sneakers basse
+C,Wallabee,Stringate sportive,118.98,100.95,True,grün,Sneakers,Sneakers basse
+NG,Blu,Sneakers basse,175.0,175.0,False,,Sneakers,Sneakers basse
+C,Torhill,Stringate sportive,150.0,150.0,False,wine,Sneakers,Sneakers basse
+G,Light Brown,Stivaletti,109.9,81.95,True,,Stivali & Stivaletti,Stivaletti
+G,Spherica Actif X 4,Sneakers basse,135.59,116.39,True,navy,Sneakers,Sneakers basse
+C,Nero,Stringate sportive,119.77,119.77,False,,Sneakers,Sneakers basse
+G,Spherica,Stivaletti stringati,126.95,126.95,False,mud,Stivali & Stivaletti,Stivaletti
+G,Grün,Sneakers basse,106.5,106.5,False,,Sneakers,Sneakers basse
+C,Grey Combi,Stivaletti stringati,127.45,127.45,False,,Stivali & Stivaletti,Stivaletti
+G,Dunkelgrau,Sneakers basse,99.9,99.9,False,,Sneakers,Sneakers basse
+G,Pantelleria,Scarpe senza lacci,89.9,89.9,False,navy,Sneakers,Sneakers basse
+G,Baltmoore,Sneakers basse,98.96,98.96,False,avio,Sneakers,Sneakers basse
+G,Mottled Light Gre,Sneakers basse,110.0,110.0,False,,Sneakers,Sneakers basse
+NG,Avio,Sneakers basse,189.9,169.95,True,,Sneakers,Sneakers basse
+G,Ghita,Ciabattine,79.9,79.9,False,dark coffee,Ciabatte & Pantofole,Ciabatte
+G,Vittour,Sneakers basse,99.9,99.9,False,weiß,Sneakers,Sneakers basse
+C,Black Leather,Stivaletti stringati,177.05,112.69,True,,Stivali & Stivaletti,Stivaletti
+G,Plus,Sneakers basse,139.9,139.9,False,braun,Sneakers,Sneakers basse
+G,Geox,Mocassini eleganti,145.0,145.0,False,black,Mocassini,Mocassini
+G,Weiß,Sneakers basse,109.95,109.95,False,,Sneakers,Sneakers basse
+G,Spherica,Stivaletti,99.95,99.95,False,coffee,Stivali & Stivaletti,Stivaletti
+G,Spherica Actif,Sneakers basse,119.9,119.9,False,musk graphite,Sneakers,Sneakers basse
+NG,Ivory,Sneakers basse,189.0,160.65,True,,Sneakers,Sneakers basse
+G,Spherica Ec1,Stivaletti,109.95,109.95,False,mud,Stivali & Stivaletti,Stivaletti
+G,Parnaiba,Ciabattine,79.9,79.9,False,dark brown,Ciabatte & Pantofole,Ciabatte
+G,Weiß,Sneakers basse,149.0,119.2,True,,Sneakers,Sneakers basse
+NG,Sneaker,Sneakers basse,199.9,158.95,True,yogurt,Sneakers,Sneakers basse
+NG,Bianco,Sneakers basse,189.0,150.95,True,,Sneakers,Sneakers basse
+G,Spherica,Sneakers basse,129.9,129.9,False,navy,Sneakers,Sneakers basse
+C,Wallabee,Stringate sportive,126.0,126.0,False,cola,Sneakers,Sneakers basse
+G,Claudio A,Stivaletti stringati,99.0,89.1,True,light grey,Stivali & Stivaletti,Stivaletti
+G,Blau,Sandali da trekking,96.98,81.95,True,,Sandali,Sandali sportivi
+G,Kosmopolis  Grip,Scarpe da barca,119.9,119.9,False,red,Mocassini,Boat shoes
+C,Black Sde,Stivaletti stringati,84.0,84.0,False,,Stivali & Stivaletti,Stivaletti
+G,Spherica,Stivaletti stringati,126.95,126.95,False,mottled beige,Stivali & Stivaletti,Stivaletti
+G,Mud C,Stivaletti,98.91,98.91,False,,Stivali & Stivaletti,Stivaletti
+G,Spherica Ec17,Stringate,135.0,135.0,False,toffee,Scarpe eleganti,Stringate / Derby
+G,Lt Brown/Black C,Stivaletti stringati,313.42,149.14,True,,Stivali & Stivaletti,Stivaletti
+NG,Fango,Sneakers basse,175.0,175.0,False,,Sneakers,Sneakers basse
+G,Light Brown,Stivaletti stringati,104.9,104.9,False,,Stivali & Stivaletti,Stivaletti
+NG,Sneakers,Sneakers basse,159.5,159.5,False,bianco,Sneakers,Sneakers basse
+NG,Sneakers,Sneakers basse,149.5,149.5,False,blu,Sneakers,Sneakers basse
+G,Avery,Sneakers basse,99.0,84.0,True,gris colombe,Sneakers,Sneakers basse
+NG,Blu,Stivaletti,150.0,150.0,False,,Stivali & Stivaletti,Stivaletti
+C,Orson Harbour,Scarpe da barca,123.25,123.25,False,navy combi,Mocassini,Boat shoes
+NG,Bianco,Sneakers basse,209.9,209.9,False,,Sneakers,Sneakers basse
+G,Spherica Actif,Sneakers basse,119.9,119.9,False,sand dove grey c,Sneakers,Sneakers basse
+G,Spherica Ec1,Stivaletti,129.9,116.91,True,dark brown,Stivali & Stivaletti,Stivaletti
+C,Grün,Stringate sportive,134.95,134.95,False,,Sneakers,Sneakers basse
+G,Flextride Plus,Sneakers basse,87.9,87.9,False,military,Sneakers,Sneakers basse
+G,Portello B,Scarpe senza lacci,99.9,99.9,False,light grey,Sneakers,Sneakers basse
+G,Dark Avio,Mocassini,119.9,119.9,False,,Mocassini,Mocassini
+G,Spherica Ec17,Stringate sportive,135.0,135.0,False,dove grey,Sneakers,Sneakers basse
+G,Light Grey Navy,Sneakers basse,119.0,101.0,True,,Sneakers,Sneakers basse
+G,Sneaker Gxrn,Sneakers basse,145.0,145.0,False,blau,Sneakers,Sneakers basse
+G,Spherica Ecub,Stivaletti stringati,126.95,126.95,False,black,Stivali & Stivaletti,Stivaletti
+NG,Blu,Sneakers basse,171.0,171.0,False,,Sneakers,Sneakers basse
+G,Navy,Stivaletti stringati,119.9,89.9,True,,Stivali & Stivaletti,Stivaletti
+G,Braun,Stivaletti stringati,151.95,151.95,False,,Stivali & Stivaletti,Stivaletti
+G,Iacopo,Stringate eleganti,139.9,139.9,False,coffee,Scarpe eleganti,Stringate / Derby
+G,Capitale,Stringate,199.9,199.9,False,light brown,Scarpe eleganti,Stringate / Derby
+G,Spherica Actif,Sneakers basse,119.9,119.9,False,avio navy,Sneakers,Sneakers basse
+G,Spherica Actif X 4,Sneakers basse,119.9,119.9,False,musk,Sneakers,Sneakers basse
+G,Sand,Sandali da trekking,99.95,99.95,False,,Sandali,Sandali sportivi
+NG,Blu,Stringate,135.0,135.0,False,,Scarpe eleganti,Stringate / Derby
+NG,Blu,Stivaletti stringati,112.0,112.0,False,,Stivali & Stivaletti,Stivaletti
+G,Nero,Stivaletti,96.95,96.95,False,,Stivali & Stivaletti,Stivaletti
+G,Spherica,Sneakers basse,95.9,95.9,False,blau,Sneakers,Sneakers basse
+G,Navy,Stivaletti,74.9,74.9,False,,Stivali & Stivaletti,Stivaletti
+G,Spherica Actif X 4,Sneakers basse,125.62,113.09,True,sand,Sneakers,Sneakers basse
+G,Dk Coffee,Stivaletti,74.9,74.9,False,,Stivali & Stivaletti,Stivaletti
+G,Nero,Sneakers basse,129.9,129.9,False,,Sneakers,Sneakers basse
+NG,Savana,Sneakers basse,175.0,175.0,False,,Sneakers,Sneakers basse
+C,Solsbury Slide,Ciabattine,89.99,89.99,False,dark sand,Ciabatte & Pantofole,Ciabatte
+G,Spherica Ecub-1 B,Scarpe senza lacci,129.9,129.9,False,dark blue,Sneakers,Sneakers basse
+G,Spherica Ec7,Stivaletti,149.9,149.9,False,dark brown,Stivali & Stivaletti,Stivaletti
+G,Ascanio,Mocassini,99.9,99.9,False,mottled beige,Mocassini,Mocassini
+G,Spherica Actif X2 B Abx D,Sneakers alte,169.9,169.9,False,screziato mottled black,Sneakers,Sneakers alte
+G,Black,Stringate eleganti,139.9,139.9,False,,Scarpe eleganti,Stringate / Derby
+NG,T Moro,Sneakers basse,189.9,166.95,True,,Sneakers,Sneakers basse
+G,Spherica,Stringate eleganti,97.99,97.99,False,coffee,Scarpe eleganti,Stringate / Derby
+G,Spherica Ec17,Stringate sportive,135.0,135.0,False,navy,Sneakers,Sneakers basse
+NG,Osso,Sneakers basse,189.9,160.95,True,,Sneakers,Sneakers basse
+G,Ascanio,Mocassini,99.9,99.9,False,dark blue,Mocassini,Mocassini
+G,Plus,Sneakers basse,139.9,139.9,False,musk black,Sneakers,Sneakers basse
+G,Military C,Stivaletti,65.94,65.94,False,,Stivali & Stivaletti,Stivaletti
+G,Navy C,Ciabattine,79.9,79.9,False,,Ciabatte & Pantofole,Ciabatte
+C,Clarkdale Easy,Stivaletti,152.95,152.95,False,mottled brown,Stivali & Stivaletti,Stivaletti
+NG,Marrone,Sneakers basse,119.6,119.6,False,,Sneakers,Sneakers basse
+G,Spherica Ec7,Stivaletti,194.87,194.87,False,brown cotto,Stivali & Stivaletti,Stivaletti
+G,Capitale,Stringate,199.9,199.9,False,coffee,Scarpe eleganti,Stringate / Derby
+C,Wallabee,Stringate sportive,160.0,124.9,True,dark brown,Sneakers,Sneakers basse
+G,Strada,Sandali da trekking,79.9,79.9,False,dark brown,Sandali,Sandali sportivi
+G,Walk Pleasure,Stringate,169.9,169.9,False,dark brown,Scarpe eleganti,Stringate / Derby
+NG,Tortora,Sneakers basse,141.0,141.0,False,,Sneakers,Sneakers basse
+G,Snake Original,Sneakers basse,109.9,109.9,False,ochre,Sneakers,Sneakers basse
+G,Military,Sandali da trekking,96.98,87.25,True,,Sandali,Sandali sportivi
+NG,Nero,Mocassini eleganti,140.0,140.0,False,,Mocassini,Mocassini
+G,Strada,Sandali da trekking,79.9,79.9,False,black,Sandali,Sandali sportivi
+NG,Sneakers,Sneakers basse,155.0,155.0,False,beige,Sneakers,Sneakers basse
+G,Brown,Stivaletti stringati,152.91,152.91,False,,Stivali & Stivaletti,Stivaletti
+G,Xand 2S U35Bgb,Ciabattine,89.9,76.0,True,schwarz,Ciabatte & Pantofole,Ciabatte
+G,Flextride F Plus,Sneakers basse,109.9,109.9,False,black,Sneakers,Sneakers basse
+NG,Osaka Novi Light,Stivaletti stringati,157.05,157.05,False,t di moro,Stivali & Stivaletti,Stivaletti
+G,Black,Scarpe senza lacci,129.9,129.9,False,,Sneakers,Sneakers basse
+G,Monreale,Sneakers basse,94.99,94.99,False,gris,Sneakers,Sneakers basse
+G,Spherica,Stivaletti stringati,129.9,129.9,False,navy,Stivali & Stivaletti,Stivaletti
+G,Screziato Mottled Black,Scarpe senza lacci,99.0,84.0,True,,Sneakers,Sneakers basse
+G,Light Brown,Stivaletti stringati,109.9,87.9,True,,Stivali & Stivaletti,Stivaletti
+G,Spherica Actif X S,Sandali da trekking,89.9,89.9,False,military,Sandali,Sandali sportivi
+G,Braun Coffee,Stivaletti stringati,89.9,89.9,False,,Stivali & Stivaletti,Stivaletti
+G,Screziato-Mottled Black,Stivaletti,104.9,104.9,False,,Stivali & Stivaletti,Stivaletti
+G,Ghita,Ciabattine,79.9,79.9,False,black,Ciabatte & Pantofole,Ciabatte
+G,U656Ja0T522,Sneakers basse,149.0,119.2,True,white,Sneakers,Sneakers basse
+G,Erice,Ciabattine,69.9,69.9,False,black,Ciabatte & Pantofole,Ciabatte
+G,Leitan,Sneakers basse,99.9,99.9,False,noir,Sneakers,Sneakers basse
+G,Spherica,Stivaletti stringati,168.87,168.87,False,military,Stivali & Stivaletti,Stivaletti
+G,Spherica Ecub-1 B,Scarpe senza lacci,129.9,129.9,False,light brown,Sneakers,Sneakers basse
+G,Mules À Enfiler Geox Flextride,Ciabattine,89.9,89.9,False,dove gris,Ciabatte & Pantofole,Ciabatte
+G,Xand 2S,Sandali,99.0,99.0,False,navy,Sandali,Sandali aperti
+NG,Talpa,Sneakers basse,189.0,151.15,True,,Sneakers,Sneakers basse
+G,Spherica Actif X S,Sandali da trekking,89.9,89.9,False,navy,Sandali,Sandali sportivi
+G,Blau,Sneakers basse,134.99,134.99,False,,Sneakers,Sneakers basse
+C,Black,Stivaletti stringati,194.98,194.98,False,,Stivali & Stivaletti,Stivaletti
+G,Siron Bleu 41,Mocassini,99.0,84.15,True,bleu,Mocassini,Mocassini
+NG,Marrone,Stringate eleganti,134.9,134.9,False,,Scarpe eleganti,Stringate / Derby
+G,Spherica Plus,Sneakers basse,139.9,139.9,False,screziato-mottled black,Sneakers,Sneakers basse
+G,Spherica Plus,Sneakers basse,109.0,93.0,True,red,Sneakers,Sneakers basse
+G,Schwarz C,Stivaletti stringati,89.9,89.9,False,,Stivali & Stivaletti,Stivaletti
+G,Istria,Stringate sportive,99.9,99.9,False,dark blue,Sneakers,Sneakers basse
+G,Black C,Stivaletti stringati,89.9,89.9,False,,Stivali & Stivaletti,Stivaletti
+G,Black,Sneakers alte,143.95,143.95,False,,Sneakers,Sneakers alte
+G,Flextride S,Ciabattine,89.9,89.9,False,navy (u652jb000ekc4002),Ciabatte & Pantofole,Ciabatte
+G,Ghita,Ciabattine,89.9,89.9,False,black,Ciabatte & Pantofole,Ciabatte
+G,Dark Blue,Stivaletti stringati,81.95,81.95,False,,Stivali & Stivaletti,Stivaletti
+G,Taupe C,Stivaletti stringati,89.9,89.9,False,,Stivali & Stivaletti,Stivaletti
+G,Blu,Stringate,109.9,109.9,False,,Scarpe eleganti,Stringate / Derby
+G,Black,Sneakers alte,111.95,111.95,False,,Sneakers,Sneakers alte
+G,Terreno Grip,Sandali da trekking,79.9,79.9,False,military,Sandali,Sandali sportivi
+NG,Sneakers,Sneakers basse,169.5,169.5,False,blu,Sneakers,Sneakers basse
+G,Dk Navy Black,Sandali da trekking,79.9,79.9,False,,Sandali,Sandali sportivi
+G,Moner,Mocassini,139.9,139.9,False,black,Mocassini,Mocassini
+G,Spherica Plus,Sneakers basse,99.95,99.95,False,black,Sneakers,Sneakers basse
+G,C Graphite,Sneakers basse,116.91,116.91,False,,Sneakers,Sneakers basse
+G,Screziato Mottled Black,Stivaletti stringati,104.9,104.9,False,,Stivali & Stivaletti,Stivaletti
+G,Pelle,Stivaletti stringati,96.95,96.95,False,black,Stivali & Stivaletti,Stivaletti
+G,C Dk Brown,Sneakers basse,129.9,129.9,False,,Sneakers,Sneakers basse
+G,Baskets U55Mpa Geox,Sneakers basse,109.9,109.9,False,blue,Sneakers,Sneakers basse
+C,Dark Brown Suede,Stringate sportive,120.0,120.0,False,,Sneakers,Sneakers basse
+G,Istria,Stringate sportive,99.9,99.9,False,light brown,Sneakers,Sneakers basse
+C,Wallabee,Stringate sportive,119.95,119.95,False,brown combi,Sneakers,Sneakers basse
+G,Spherica Actif X S,Sandali da trekking,89.9,89.9,False,black,Sandali,Sandali sportivi
+C,Wallabeegtx,Stringate sportive,230.0,230.0,False,maple suede,Sneakers,Sneakers basse
+G,Schuhe U Parnaiba,Ciabattine,79.9,79.9,False,military ukac,Ciabatte & Pantofole,Ciabatte
+NG,Anthracite,Stivaletti,159.0,159.0,False,,Stivali & Stivaletti,Stivaletti
+NG,Arold,Scarpe senza lacci,154.0,154.0,False,mottled beige,Sneakers,Sneakers basse
+C,Polacco Desert,Stivaletti stringati,150.0,120.0,True,marrone,Stivali & Stivaletti,Stivaletti
+G,Granito,Stivaletti stringati,160.95,160.95,False,schwarz,Stivali & Stivaletti,Stivaletti
+G,Spherica Actif,Sandali da trekking,99.99,99.99,False,schwarz,Sandali,Sandali sportivi
+G,Dove Grey Black,Sandali da trekking,89.9,89.9,False,,Sandali,Sandali sportivi
+G,Dark Navy Black,Sandali da trekking,89.9,89.9,False,,Sandali,Sandali sportivi
+G,Capitale,Stringate eleganti,199.9,199.9,False,black,Scarpe eleganti,Stringate / Derby
+G,Henreys,Stivaletti,110.0,110.0,False,screziato-mottled black,Stivali & Stivaletti,Stivaletti
+C,185565,Stringate sportive,140.0,119.0,True,brown,Sneakers,Sneakers basse
+NG,Taupe,Sneakers alte,94.99,94.99,False,,Sneakers,Sneakers alte
+G,Musk Black,Sandali da trekking,89.9,89.9,False,,Sandali,Sandali sportivi
+NG,Ilcea Tr Novi Light,Stivaletti,179.0,125.3,True,nero,Stivali & Stivaletti,Stivaletti
+G,Black,Mocassini,98.9,98.9,False,,Mocassini,Mocassini
+NG,Exton  Mocassino Pembrey In Vitello Toscano,Scarpe senza lacci,169.5,169.5,False,t.moro,Sneakers,Sneakers basse
+NG,Nero,Stivaletti,192.0,192.0,False,,Stivali & Stivaletti,Stivaletti
+G,Ghita,Ciabattine,79.9,79.9,False,dove grey,Ciabatte & Pantofole,Ciabatte
+G,Sandal Ghita B Marron 40,Ciabattine,84.99,84.99,False,marron,Ciabatte & Pantofole,Ciabatte
+G,Military/Black C,Stivaletti stringati,197.71,142.31,True,,Stivali & Stivaletti,Stivaletti
+G,Henreys,Stivaletti,110.0,110.0,False,mottled beige,Stivali & Stivaletti,Stivaletti
+C,Badell Hi Wp,Stivaletti stringati,142.31,142.31,False,schwarz,Stivali & Stivaletti,Stivaletti
+NG,Exton  Mocassino Pembrey In Vitello Toscano,Scarpe senza lacci,169.5,169.5,False,jeans,Sneakers,Sneakers basse
+G,Schuhe U Parnaiba,Ciabattine,79.9,79.9,False,yellow,Ciabatte & Pantofole,Ciabatte
+G,Marron Clair Rust,Sandali da trekking,62.9,62.9,False,,Sandali,Sandali sportivi
+G,Federico,Stringate eleganti,95.9,95.9,False,black,Scarpe eleganti,Stringate / Derby
+C,Desert Bt Evo,Stivaletti stringati,109.74,109.74,False,blue,Stivali & Stivaletti,Stivaletti
+C,Lockford Easy,Scarpe senza lacci,89.99,89.99,False,brown,Sneakers,Sneakers basse
+C,Sneaker,Sneakers basse,101.99,101.99,False,grau,Sneakers,Sneakers basse
+C,Atticus,Stringate eleganti,99.99,99.99,False,black,Scarpe eleganti,Stringate / Derby
+C,Craftremi Lace,Stringate,109.99,109.99,False,black,Scarpe eleganti,Stringate / Derby
+G,Wells,Sneakers basse,99.99,64.99,True,dark grey,Sneakers,Sneakers basse
+C,Howard Cap,Stringate,99.99,99.99,False,black,Scarpe eleganti,Stringate / Derby
+C,Torview,Stringate,129.99,83.99,True,black,Scarpe eleganti,Stringate / Derby
+G,Adacter M,Stringate sportive,79.9,63.5,True,navy,Sneakers,Sneakers basse
+C,Craftremi Tip,Stringate,114.99,97.99,True,black,Scarpe eleganti,Stringate / Derby
+C,Grau,Stringate sportive,109.98,109.98,False,,Sneakers,Sneakers basse
+C,Craftremi,Stringate eleganti,123.38,123.38,False,braun,Scarpe eleganti,Stringate / Derby
+C,Wallabee,Stringate sportive,119.99,119.99,False,black,Sneakers,Sneakers basse
+C,Un Costa Lace,Sneakers basse,110.0,110.0,False,navy,Sneakers,Sneakers basse
+C,Costa Lace,Sneakers basse,110.0,110.0,False,white,Sneakers,Sneakers basse
+C,Craftremi Lace,Stringate,109.99,109.99,False,brown,Scarpe eleganti,Stringate / Derby
+C,Step Urban Mix,Sneakers basse,47.4,47.4,False,navy,Sneakers,Sneakers basse
+C,Aldwin Step,Scarpe senza lacci,109.99,109.99,False,black,Sneakers,Sneakers basse
+C,Craftremi Tip,Stringate,114.99,114.99,False,tan,Scarpe eleganti,Stringate / Derby
+C,Goswell Tie,Sneakers basse,109.0,96.0,True,braun,Sneakers,Sneakers basse
+C,Torview,Stringate sportive,139.99,139.99,False,multi-coloured,Sneakers,Sneakers basse
+G,Deiven,Sneakers basse,109.95,109.95,False,light brown,Sneakers,Sneakers basse
+C,Aldwin,Stringate,115.4,115.4,False,beige,Scarpe eleganti,Stringate / Derby
+G,Spherica,Scarpe senza lacci,129.9,129.9,False,coffee,Sneakers,Sneakers basse
+G,Symbol,Stringate sportive,116.95,116.95,False,browncotto,Sneakers,Sneakers basse
+G,Flextride,Sneakers basse,87.9,87.9,False,white,Sneakers,Sneakers basse
+C,Wallabee,Stringate sportive,129.99,129.99,False,light pink,Sneakers,Sneakers basse
+G,Navy,Sneakers basse,87.9,87.9,False,,Sneakers,Sneakers basse
+C,Blau,Stringate sportive,109.98,109.98,False,,Sneakers,Sneakers basse
+C,Nature Three,Stringate sportive,139.95,139.95,False,black,Sneakers,Sneakers basse
+C,Clarks Lifestyle-Schuhe M Radwell Tie,Sneakers basse,102.82,102.82,False,cola suede g,Sneakers,Sneakers basse
+G,Massimiano,Scarpe senza lacci,74.9,74.9,False,dark blue,Sneakers,Sneakers basse
+C,Wallabee,Stringate sportive,139.99,90.99,True,green,Sneakers,Sneakers basse
+C,Black Leather,Stringate eleganti,85.0,85.0,False,,Scarpe eleganti,Stringate / Derby
+C,Newford,Stivaletti,119.95,119.95,False,brown leather,Stivali & Stivaletti,Stivaletti
+C,Craftarlo Limit,Stringate,119.99,119.99,False,black leather,Scarpe eleganti,Stringate / Derby
+C,Craft James Lo,Scarpe senza lacci,159.99,159.99,False,dark green combination,Sneakers,Sneakers basse
+G,Spherica Ecub,Sneakers basse,135.95,135.95,False,wine,Sneakers,Sneakers basse
+C,Dark Sand Suede,Stringate sportive,114.98,96.95,True,,Sneakers,Sneakers basse
+C,Halbschuhe,Scarpe da barca,98.95,98.95,False,navy nubuck,Mocassini,Boat shoes
+G,Ecub,Sneakers basse,123.98,111.55,True,white navy,Sneakers,Sneakers basse
+G,Deiven,Sneakers basse,109.9,109.9,False,navy,Sneakers,Sneakers basse
+G,Spherica Ecub,Sneakers basse,135.95,135.95,False,military,Sneakers,Sneakers basse
+G,Black,Scarpe senza lacci,95.9,95.9,False,,Sneakers,Sneakers basse
+G,Spherica Actif,Sneakers basse,105.0,105.0,False,dark red,Sneakers,Sneakers basse
+C,Desert,Stivaletti stringati,109.99,109.99,False,brown,Stivali & Stivaletti,Stivaletti
+C,Beeswax Leather,Stringate sportive,204.0,204.0,False,,Sneakers,Sneakers basse
+C,Un Aldric,Stringate eleganti,130.9,130.9,False,black,Scarpe eleganti,Stringate / Derby
+C,Courtlite Run,Sneakers basse,103.2,103.2,False,white,Sneakers,Sneakers basse
+G,Walee,Sneakers basse,94.99,94.99,False,grün,Sneakers,Sneakers basse
+C,Howard Walk,Stringate eleganti,99.99,99.99,False,dark tan,Scarpe eleganti,Stringate / Derby
+C,Craftjames,Mocassini eleganti,159.99,159.99,False,brown,Mocassini,Mocassini
+C,Badbury Hi,Stivaletti stringati,103.9,103.9,False,black wlined lea,Stivali & Stivaletti,Stivaletti
+G,Spherica,Stivaletti stringati,150.0,150.0,False,dark brown,Stivali & Stivaletti,Stivaletti
+G,Ecub,Sneakers basse,90.0,90.0,False,navy,Sneakers,Sneakers basse
+G,Cordusio,Stringate sportive,103.9,103.9,False,navy,Sneakers,Sneakers basse
+G,Spherica,Sandali da trekking,99.99,99.99,False,black,Sandali,Sandali sportivi
+G,Black,Stivaletti,207.87,207.87,False,,Stivali & Stivaletti,Stivaletti
+G,Navy,Sneakers basse,142.24,99.95,True,,Sneakers,Sneakers basse
+G,Wine,Stivaletti stringati,96.95,96.95,False,,Stivali & Stivaletti,Stivaletti
+C,Off White Int,Stringate sportive,129.6,129.6,False,,Sneakers,Sneakers basse
+G,White  C,Sneakers basse,126.95,126.95,False,,Sneakers,Sneakers basse
+C,Aldwin,Stringate eleganti,141.78,111.58,True,black leather,Scarpe eleganti,Stringate / Derby
+G,Toffee,Sneakers basse,123.98,111.55,True,,Sneakers,Sneakers basse
+G,Spherica,Stivaletti stringati,168.87,168.87,False,dove grey,Stivali & Stivaletti,Stivaletti
+G,Browncotto,Sneakers basse,130.0,116.95,True,,Sneakers,Sneakers basse
+C,Khaki,Sneakers basse,87.18,87.18,False,,Sneakers,Sneakers basse
+G,Baltmoore,Sneakers basse,136.16,136.16,False,white green,Sneakers,Sneakers basse
+NG,Marrone,Sneakers alte,144.0,144.0,False,,Sneakers,Sneakers alte
+C,Craftarlo Lace,Stringate eleganti,119.99,119.99,False,tan,Scarpe eleganti,Stringate / Derby
+G,Spherica,Sneakers basse,125.95,125.95,False,dove grey black,Sneakers,Sneakers basse
+G,Snake Original,Sneakers basse,116.63,116.63,False,black,Sneakers,Sneakers basse
+C,Black,Sneakers basse,85.0,85.0,False,,Sneakers,Sneakers basse
+G,Weiß,Sneakers basse,115.68,115.68,False,,Sneakers,Sneakers basse
+G,Baltmoore,Sneakers basse,119.95,119.95,False,taupe,Sneakers,Sneakers basse
+G,Sneaker,Sneakers basse,118.95,118.95,False,black c,Sneakers,Sneakers basse
+G,Spherica,Stringate sportive,99.95,99.95,False,navy,Sneakers,Sneakers basse
+G,Spherica Ecub,Sneakers basse,89.68,89.68,False,blau,Sneakers,Sneakers basse
+NG,Marrone,Stivaletti,155.0,108.5,True,,Stivali & Stivaletti,Stivaletti
+G,Pove,Stivaletti stringati,193.8,130.0,True,black,Stivali & Stivaletti,Stivaletti
+G,Spherica,Stivaletti,129.9,129.9,False,navy,Stivali & Stivaletti,Stivaletti
+C,White Combi,Sneakers basse,96.98,87.25,True,,Sneakers,Sneakers basse
+C,Meare Mocc,Ciabattine,109.99,109.99,False,dark sand suede,Ciabatte & Pantofole,Ciabatte
+NG,Nero,Sneakers alte,144.0,144.0,False,,Sneakers,Sneakers alte
+NG,Marrone,Stivaletti stringati,135.6,135.6,False,,Stivali & Stivaletti,Stivaletti
+G,Granito  Grip,Sneakers alte,128.64,128.64,False,navy,Sneakers,Sneakers alte
+NG,Fango,Sneakers basse,199.9,199.9,False,,Sneakers,Sneakers basse
+C,Oakwood,Stringate sportive,140.0,140.0,False,,Sneakers,Sneakers basse
+G,Baltmoore,Sneakers basse,130.0,130.0,False,navy dark avio,Sneakers,Sneakers basse
+NG,Marrone,Stringate,141.0,141.0,False,,Scarpe eleganti,Stringate / Derby
+NG,Marrone,Stivaletti stringati,112.0,112.0,False,,Stivali & Stivaletti,Stivaletti
+NG,Blu,Stringate eleganti,159.5,159.5,False,,Scarpe eleganti,Stringate / Derby
+C,Clarkridge Hi,Stivaletti stringati,189.98,189.98,False,black,Stivali & Stivaletti,Stivaletti
+C,Khaki,Stivaletti stringati,159.0,159.0,False,,Stivali & Stivaletti,Stivaletti
+G,Grip B Ab,Sneakers basse,207.87,207.87,False,black,Sneakers,Sneakers basse
+C,Desert,Stivaletti stringati,150.0,150.0,False,cola,Stivali & Stivaletti,Stivaletti
+G,Black,Stivaletti,89.93,89.93,False,,Stivali & Stivaletti,Stivaletti
+G,Spherica Ecub-1,Sneakers alte,99.95,99.95,False,dark coffee,Sneakers,Sneakers alte
+G,Brayden 2Fit Abx B,Stivaletti,159.9,159.9,False,black,Stivali & Stivaletti,Stivaletti
+G,Spherica Actif,Stivaletti stringati,275.0,275.0,False,black,Stivali & Stivaletti,Stivaletti
+C,Brown,Mocassini,114.0,114.0,False,,Mocassini,Mocassini
+G,Portello,Sneakers basse,74.9,74.9,False,dark blue,Sneakers,Sneakers basse
+C,Courtliterun Nubuk 26176724,Sneakers basse,130.0,130.0,False,blue,Sneakers,Sneakers basse
+C,Navy,Stringate sportive,137.98,137.98,False,,Sneakers,Sneakers basse
+C,Berhill Midgtx,Stivaletti stringati,180.0,180.0,False,braun,Stivali & Stivaletti,Stivaletti
+G,Brayden,Stivaletti stringati,169.9,169.9,False,black,Stivali & Stivaletti,Stivaletti
+G,Grau,Sneakers basse,135.95,135.95,False,,Sneakers,Sneakers basse
+G,Meiern,Stivaletti stringati,129.9,116.91,True,coffee,Stivali & Stivaletti,Stivaletti
+NG,Bianco,Sneakers basse,122.9,122.9,False,,Sneakers,Sneakers basse
+G,Black,Sneakers basse,74.9,74.9,False,,Sneakers,Sneakers basse
+G,Snake 2.0,Sneakers basse,118.95,118.95,False,skin,Sneakers,Sneakers basse
+G,Screziato Mottled Black,Stivaletti stringati,110.0,110.0,False,,Stivali & Stivaletti,Stivaletti
+C,Batcombe,Stringate eleganti,156.16,131.11,True,black,Scarpe eleganti,Stringate / Derby
+NG,Marrone,Stivaletti stringati,171.0,171.0,False,,Stivali & Stivaletti,Stivaletti
+C,Sand Combi,Sneakers basse,105.0,84.0,True,,Sneakers,Sneakers basse
+C,Torhill,Stringate sportive,129.95,129.95,False,dark brown,Sneakers,Sneakers basse
+C,Torhill Hi,Stringate sportive,130.0,130.0,False,black,Sneakers,Sneakers basse
+C,Clarkwood,Stringate sportive,139.98,139.98,False,navy,Sneakers,Sneakers basse
+G,Xand 2S,Sandali,99.0,99.0,False,military,Sandali,Sandali aperti
+G,Spherica Plus,Sneakers basse,97.0,97.0,False,military,Sneakers,Sneakers basse
+C,Saltway Cove,Sandali da trekking,123.98,111.55,True,marron,Sandali,Sandali sportivi
+C,Nature Three,Stringate sportive,128.55,128.55,False,mahagony,Sneakers,Sneakers basse
+G,C Grey,Sneakers basse,99.95,99.95,False,,Sneakers,Sneakers basse
+G,Spherica,Stringate sportive,168.87,168.87,False,brown cotto,Sneakers,Sneakers basse
+G,Spherica Ecub,Sneakers basse,83.93,83.93,False,black,Sneakers,Sneakers basse
+G,Basket Spherica,Sneakers basse,83.93,83.93,False,marine,Sneakers,Sneakers basse
+C,Torhill Lo,Stringate sportive,111.55,111.55,False,dark olive combi,Sneakers,Sneakers basse
+NG,Blu,Sneakers basse,111.6,111.6,False,,Sneakers,Sneakers basse
+NG,Nero,Sneakers alte,136.0,136.0,False,,Sneakers,Sneakers alte
+G,Ice/White,Sneakers basse,124.15,124.15,False,,Sneakers,Sneakers basse
+C,Weiß,Sneakers basse,119.2,119.2,False,,Sneakers,Sneakers basse
+NG,Brown,Stivaletti stringati,141.9,141.9,False,,Stivali & Stivaletti,Stivaletti
+G,Navy,Sneakers basse,116.95,116.95,False,,Sneakers,Sneakers basse
+C,Polden,Stringate sportive,139.0,139.0,False,a grey canvas,Sneakers,Sneakers basse
+C,Batcombe Lord,Stivaletti stringati,152.95,152.95,False,noir,Stivali & Stivaletti,Stivaletti
+C,Navy Suede,Scarpe senza lacci,114.98,103.45,True,,Sneakers,Sneakers basse
+C,Black Leather,Stivaletti stringati,139.99,139.99,False,,Stivali & Stivaletti,Stivaletti
+NG,Nero,Stivaletti,149.5,149.5,False,,Stivali & Stivaletti,Stivaletti
+C,Rossdale,Stivaletti stringati,179.26,179.26,False,brown wlined lea,Stivali & Stivaletti,Stivaletti
+G,Monet,Mocassini,94.98,94.98,False,blue,Mocassini,Mocassini
+G,Spherica Ecub 1,Scarpe senza lacci,155.87,155.87,False,navy,Sneakers,Sneakers basse
+C,Dark Sand Wlined,Stivaletti stringati,161.95,161.95,False,,Stivali & Stivaletti,Stivaletti
+C,Navy Combi,Stringate sportive,150.0,150.0,False,,Sneakers,Sneakers basse
+C,Dark Sand Suede,Stivaletti stringati,140.0,140.0,False,,Stivali & Stivaletti,Stivaletti
+C,Solsbury Easy,Stivaletti,152.95,152.95,False,brown,Stivali & Stivaletti,Stivaletti
+C,Black Wlined Lea,Stivaletti stringati,161.95,161.95,False,,Stivali & Stivaletti,Stivaletti
+C,Polden Moc,Stringate sportive,103.2,103.2,False,grün,Sneakers,Sneakers basse
+C,Schwarz,Stivaletti stringati,160.0,160.0,False,,Stivali & Stivaletti,Stivaletti
+G,Symbol,Stringate sportive,109.99,109.99,False,black,Sneakers,Sneakers basse
+C,Clarkdale Easy,Stivaletti,159.99,159.99,False,black,Stivali & Stivaletti,Stivaletti
+C,Craftarlo Limit,Stringate,119.99,119.99,False,tan,Scarpe eleganti,Stringate / Derby
+C,Wallabeegtx,Stringate sportive,229.99,229.99,False,black,Sneakers,Sneakers basse
+C,Wallabee,Stringate sportive,129.99,129.99,False,beeswax,Sneakers,Sneakers basse
