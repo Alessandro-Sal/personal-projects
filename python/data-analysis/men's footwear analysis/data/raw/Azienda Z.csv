@@ -1,0 +1,778 @@
+Brand,Scarpe,Categoria,Prezzo reale,Prezzo scontato,In sconto,Dettaglio/Colore
+Azienda G,SPHERICA,Sneakers basse,99.99,89.99,True,black
+Azienda G,SPHERICA ACTIF X4,Sneakers basse,89.99,89.99,False,navy
+Azienda C,SWIFT,Sneakers basse,119.99,101.99,True,black
+Azienda G,U BALTMOORE,Sneakers basse,99.9,99.9,False,jeans
+Azienda G,U SPHERICA,Sneakers basse,109.0,87.0,True,dark blue
+Azienda C,ATTICUS,Stringate eleganti,99.99,99.99,False,dark tan
+Azienda G,U SPHERICA PLUS,Sneakers basse,109.99,92.99,True,navy
+Azienda G,UOMO SYMBOL,Stringate sportive,109.99,92.99,True,black
+Azienda G,Sneakers basse,navy,124.99,124.99,False,
+Azienda C,CORSLEY BAR,Scarpe senza lacci,89.99,66.99,True,cola
+Azienda G,WELLS,Sneakers basse,109.9,109.9,False,dark navy
+Azienda G,AVERY,Sneakers basse,99.0,84.0,True,bleu marine
+Azienda C,DESERT,Stringate sportive,129.99,83.99,True,black
+Azienda G,UOMO SNAKE,Sneakers basse,99.99,74.99,True,beige/ dark orange
+Azienda G,FLEXTRIDE ,Sneakers basse,99.0,84.0,True,navy
+Azienda C,LOCKFORD LACE,Sneakers basse,89.95,89.95,False,navy
+Azienda G,SERIFOS,Sneakers basse,84.99,84.99,False,dark navy
+Azienda C,Sneakers basse,brown leather g,119.99,107.99,True,
+Azienda G,U WALK PLEASURE B,Stringate eleganti,169.9,169.9,False,black
+Azienda C,CORSLEY BAR,Scarpe senza lacci,89.99,66.99,True,navy
+Azienda G,DUBLIN,Stringate eleganti,114.99,97.99,True,black
+Azienda G,UOMO FEDERICO,Scarpe senza lacci,95.9,95.9,False,black
+Azienda G,SPHERICA ACTIF,Sneakers basse,119.9,119.9,False,dove grey dark navy
+Azienda C,WALLABEE,Stringate sportive,111.99,111.99,False,dark brown
+Azienda G,UOMO SNAKE,Scarpe senza lacci,99.99,99.99,False,navy
+Azienda G,UOMO SYMBOL,Scarpe senza lacci,109.99,81.99,True,black
+Azienda G,UOMO SNAKE,Sneakers basse,99.99,89.99,True,dark grey
+Azienda C,TORHILL HI,Stringate sportive,129.99,83.99,True,dark sand
+Azienda C,WALLABEE,Stringate sportive,119.99,89.99,True,cola
+Azienda G,FLEXTRIDE PLUS,Sneakers basse,99.9,99.9,False,navy
+Azienda G,SPHERICA,Sneakers basse,99.99,84.99,True,navy/jeans
+Azienda G,U SPHERICA,Sneakers basse,109.9,109.9,False,dove grey
+Azienda C,WALLABEE,Stringate sportive,149.99,104.99,True,dark green
+Azienda G,FLEXTRIDE PLUS,Sneakers basse,109.99,92.99,True,avio
+Azienda C,COURTLITE2,Sneakers basse,99.99,99.99,False,off white
+Azienda G,NEW DAMON,Mocassini eleganti,109.99,98.99,True,black
+Azienda G,RENAN,Sneakers basse,119.9,119.9,False,sand white
+Azienda G,U SPHERICA PLUS,Sneakers basse,109.9,109.9,False,sand
+Azienda G,U FLEXTRIDE R C9999 VAR,Sneakers basse,99.9,99.9,False,dark blue
+Azienda C,WALLABEE,Stringate sportive,119.99,119.99,False,beeswax
+Azienda G,RENAN,Sneakers basse,119.9,119.9,False,black
+Azienda G,U AVERY,Sneakers basse,99.9,99.9,False,brown cotto
+Azienda G,U SPHERICA PLUS,Sneakers basse,109.0,93.0,True,yellow
+Azienda C,LIFESTYLE- TORHILL,Sneakers basse,119.99,119.99,False,dark sand nubuck g
+Azienda C,TORHILL LO,Stringate sportive,109.99,109.99,False,dark sand
+Azienda G,U AVERY C9002 VAR,Sneakers basse,99.9,99.9,False,light grey
+Azienda G,UOMO SNAKE,Scarpe senza lacci,91.18,91.18,False,beige/dark orange
+Azienda G,Sneakers basse,dark blue,63.9,63.9,False,
+Azienda C,HOWARD WALK,Stringate eleganti,99.99,99.99,False,black
+Azienda NG,Sneakers basse,bianco,109.99,109.99,False,
+Azienda G,U SPHERICA PLUS,Sneakers basse,109.9,109.9,False,black
+Azienda C,PACE,Sneakers basse,129.99,83.99,True,sage
+Azienda G,FLEXTRIDE PLUS,Sneakers basse,109.99,92.99,True,navy
+Azienda C,LOCKFORD LACE,Sneakers basse,89.99,66.99,True,dark sand
+Azienda NG,Sneakers basse,incanto,139.0,109.99,True,
+Azienda G,DEIVEN,Sneakers basse,109.9,79.5,True,white
+Azienda C,DESERT,Stringate sportive,129.99,96.99,True,sand
+Azienda G,U SPHERICA,Sneakers basse,109.9,109.9,False,navy
+Azienda G,SNAKE ORIGINAL,Sneakers basse,109.9,109.9,False,avio
+Azienda G,Stringate eleganti,black,99.99,84.99,True,
+Azienda C,DERBY STEADWELL,Stringate eleganti,82.94,82.94,False,nero
+Azienda G,U FLEXTRIDE S,Ciabattine,89.9,89.9,False,musk
+Azienda G,FLEXTRIDE ,Sneakers basse,99.9,99.9,False,white light grey
+Azienda C,TORHILL LO,Stringate sportive,119.9,107.91,True,black
+Azienda G,Sneakers basse,browncotto,109.99,92.99,True,
+Azienda NG,Sneakers basse,blu,199.9,158.95,True,
+Azienda G,U VELLETRI,Sneakers basse,139.9,139.9,False,cognac
+Azienda G,U65MAC01022,Sneakers basse,99.0,79.2,True,beige
+Azienda G,FLEXTRIDE PLUS,Sneakers basse,87.9,87.9,False,dove grey
+Azienda G,SPHERICA PLUS,Sneakers basse,104.99,104.99,False,papyrus
+Azienda C,WALLABEE,Stringate sportive,129.99,101.99,True,black
+Azienda G,FLEXTRIDE PLUS,Sneakers basse,99.9,99.9,False,jeans
+Azienda G,SPHERICA ECUB,Scarpe senza lacci,119.9,119.9,False,sand
+Azienda G,SNAKE ORIGINAL,Sneakers basse,109.9,109.9,False,green
+Azienda C,DESERT,Stringate sportive,119.99,119.99,False,black
+Azienda G,LEITAN,VAR,99.9,99.9,False,Sneakers basse - screziato-mottled black
+Azienda G,GLADWIN,Stringate eleganti,99.9,99.9,False,black (u024wa00043c9999)
+Azienda G,U BARBERIGO,Stringate,145.0,145.0,False,black
+Azienda C,HOWARD EDGE G,Mocassini eleganti,99.99,99.99,False,black
+Azienda G,SIMON,Scarpe senza lacci,99.99,74.99,True,black
+Azienda G,SPHERICA ACTIF,Sneakers basse,119.9,119.9,False,navy black
+Azienda G,Sandali da trekking,dark coffee,99.99,99.99,False,
+Azienda C,WALLABEE,Stringate sportive,139.99,96.99,True,black
+Azienda G,FLEXTRIDE ,Sneakers basse,99.0,84.0,True,dove grey
+Azienda G,CLAUDIO,Stringate sportive,74.9,74.9,False,dk coffee c6024
+Azienda G,U WALK PLEASURE ,Stringate,169.9,169.9,False,navy
+Azienda G,FLEXTRIDE PLUS,Sneakers basse,99.9,99.9,False,light olive green
+Azienda G,U WALEE,Sneakers basse,94.99,94.99,False,blau
+Azienda G,U SPHERICA PLUS,Sneakers basse,109.99,92.99,True,dark grey
+Azienda G,MOKASSIN U ISTRIA  BLAU,Scarpe senza lacci,99.0,84.0,True,navy
+Azienda G,SPHERICA,Sneakers basse,99.9,99.9,False,light navy
+Azienda G,U FLEXTRIDE R,Sneakers basse,99.9,99.9,False,musk
+Azienda G,Sneakers basse,multi-coloured,101.15,101.15,False,
+Azienda G,FLEXTRIDE ,Sneakers basse,99.9,99.9,False,anthracite
+Azienda G,U REGIO,Sneakers basse,139.9,139.9,False,cognac
+Azienda G,U FLEXTRIDE R C9999 VAR,Sneakers basse,99.9,99.9,False,screziato-mottled black
+Azienda G,U65H5A0BU11,Sneakers basse,99.0,79.2,True,blue
+Azienda C,SWIFT,Sneakers basse,120.0,102.0,True,white
+Azienda G,Sneakers basse,navy,109.9,109.9,False,
+Azienda G,SPHERICA,Sneakers basse,99.9,99.9,False,black
+Azienda C,DESERT,Stringate sportive,119.99,119.99,False,cola
+Azienda C,DESERT,Stringate sportive,119.99,107.99,True,brown
+Azienda G,SPHERICA ACTIF X4,Sneakers basse,119.0,101.0,True,white
+Azienda C,TORHILL LO,Stringate sportive,119.99,101.99,True,green
+Azienda C,LOCKFORD,Stringate sportive,89.95,89.95,False,light blue
+Azienda C,WALLABEE,Stringate sportive,104.0,104.0,False,maple
+Azienda G,U SPHERICA ECUB-1 B,Sneakers basse,139.9,139.9,False,light brown
+Azienda G,U SPHERICA ACTIF X1,Sneakers basse,119.0,101.0,True,sand
+Azienda G,U BALTMOORE,Scarpe skate,99.9,99.9,False,white
+Azienda G,FLEXTRIDE,Scarpe da barca,99.99,84.99,True,sand
+Azienda G,SNAKE,Sneakers basse,109.99,70.99,True,blue
+Azienda G,SPHERICA ACTIF,Sneakers basse,119.9,119.9,False,navy dark avio
+Azienda C,DESERT,Stivaletti stringati,119.99,119.99,False,beeswax
+Azienda G,FLEXTRIDE PLUS,Sneakers basse,109.9,109.9,False,sand umaac
+Azienda G,BALTMOORE,Sneakers basse,99.0,79.2,True,sand
+Azienda C,CHARMOUTH LACE,Scarpe da barca,89.99,89.99,False,tan
+Azienda G,U BALTMOORE,Sneakers basse,84.99,84.99,False,navy
+Azienda G,UOMO SNAKE,Scarpe senza lacci,99.99,84.99,True,dark grey/off white
+Azienda C,TORHILL LACE,Stringate sportive,119.7,119.7,False,navy
+Azienda G,BARBERIGO,Stringate,139.99,118.99,True,black
+Azienda G,U FLEXTRIDE PLUS,Scarpe senza lacci,92.5,92.5,False,black
+Azienda C,UN COSTA LACE,Sneakers basse,110.0,110.0,False,british tan
+Azienda G,Sneakers basse,navy,139.9,139.9,False,
+Azienda C,CLEYHILL,Scarpe da barca,119.99,119.99,False,brown
+Azienda NG,Stringate eleganti,blu,143.55,143.55,False,
+Azienda G,U FLEXTRIDE PLUS,Scarpe senza lacci,109.9,109.9,False,white
+Azienda G,PLUS,Sneakers basse,139.99,104.99,True,navy/blue
+Azienda C,Sneakers basse,khaki,74.99,74.99,False,
+Azienda C,TORHILL LO,Stringate sportive,109.99,92.99,True,navy
+Azienda G,U BARBERIGO,Stringate,139.99,118.99,True,coffee
+Azienda C,TORHILL LO,Stringate sportive,109.99,92.99,True,white
+Azienda G,U FLEXTRIDE PLUS,Scarpe senza lacci,109.9,109.9,False,navy
+Azienda G,Scarpe senza lacci,brown,74.9,74.9,False,
+Azienda C,Sneakers basse,off white suede g,109.99,92.99,True,
+Azienda C,SNEAKER,Sneakers basse,79.0,70.0,True,navy
+Azienda C,CLEYHILL,Stringate sportive,119.99,89.99,True,black
+Azienda C,LIFESTYLE-SOLEVANA STYLE,Sneakers basse,85.0,85.0,False,sand g
+Azienda G,U SPHERICA EC,Mocassini,119.99,101.99,True,dark navy
+Azienda G,DEIVEN,Sneakers basse,109.9,109.9,False,light brown
+Azienda G,PLUS,Sneakers basse,139.99,83.99,True,sand/yellow
+Azienda G,U SPHERICA EC12,Sneakers basse,119.9,119.9,False,navy
+Azienda G,U SPHERICA,Sneakers basse,99.9,99.9,False,light grey grey
+Azienda C,PACE RISE,Sneakers basse,129.99,70.99,True,white
+Azienda G,U SPHERICA ,Sneakers basse,129.9,129.9,False,cognac
+Azienda C,TORHILL LO,Stringate sportive,119.99,89.99,True,red
+Azienda C,LOCKFORD EASY,Scarpe senza lacci,81.0,81.0,False,navy leather
+Azienda C,CHARMOUTH LACE,Scarpe da barca,89.99,89.99,False,brown
+Azienda C,TORHILL LO,Stringate sportive,109.99,109.99,False,cola suede
+Azienda C,DESERT,Stringate sportive,129.99,96.99,True,sand
+Azienda NG,Sneakers basse,incanto,145.0,123.0,True,
+Azienda C,LITE RUN,Sneakers basse,109.0,96.0,True,blau
+Azienda C,PACE RISE,Sneakers basse,90.99,90.99,False,black
+Azienda G,U SERIFOS C4021 VAR,Sneakers basse,99.9,99.9,False,dark blue
+Azienda G,U WALK PLEASURE B,Stringate eleganti,169.9,169.9,False,cognac
+Azienda C,CLEYHILL,Scarpe da barca,119.99,89.99,True,navy
+Azienda G,U FLEXTRIDE R,Sneakers basse,99.9,99.9,False,navy
+Azienda C,COURTLITE2 RUN,Sneakers basse,120.0,95.0,True,olive
+Azienda G,Mocassini,blau,119.9,119.9,False,
+Azienda G,AERANTIS PLUS,Sneakers basse,149.99,111.99,True,white
+Azienda G,SIRON,Scarpe senza lacci,99.0,84.15,True,dove grey
+Azienda G,RECANATI,Mocassini eleganti,129.9,129.9,False,wine
+Azienda G,CAPITALE,Stringate eleganti,199.9,199.9,False,black
+Azienda C,WALLABEE,Stringate sportive,139.99,96.99,True,maple
+Azienda G,Mocassini,braun,119.9,119.9,False,
+Azienda G,Sneakers basse,black military,119.9,119.9,False,
+Azienda G,U SERIFOS,Sneakers basse,89.9,89.9,False,dove grey
+Azienda G,U SPHERICA ,Sneakers basse,103.9,103.9,False,black
+Azienda C,TORHILL LO EU,Stringate sportive,108.0,108.0,False,blau
+Azienda G,U DUBLIN,Stringate eleganti,98.78,98.78,False,black urcc
+Azienda G,IACOPO,Stringate eleganti,139.99,104.99,True,cognac
+Azienda G,U URBANGLIDER,Sneakers basse,119.99,119.99,False,navy
+Azienda G,Scarpe da barca,light olive green,99.9,99.9,False,
+Azienda G,GHITA,Infradito,69.99,69.99,False,dark coffee
+Azienda C,CLEYHILL,Scarpe da barca,119.99,89.99,True,black
+Azienda G,SNAKE ORIGINAL,Sneakers basse,81.99,81.99,False,navy
+Azienda G,Espadrillas,dark navy,89.9,89.9,False,
+Azienda C,TORHILL LO,Stringate sportive,102.0,102.0,False,olive suede
+Azienda G,U SPHERICA,Sneakers basse,99.9,99.9,False,navy dark avio
+Azienda C,WALLABEE,Stringate sportive,129.99,96.99,True,dark brown
+Azienda C,CRAFT JAMES LO,Scarpe senza lacci,160.0,143.2,True,black
+Azienda G,RECANATI,Mocassini eleganti,129.9,129.9,False,black
+Azienda G,BARBERIGO,Stringate,139.99,104.99,True,black
+Azienda G,U VITTOUR PLUS A,Sneakers basse,90.0,90.0,False,dark navy-navy
+Azienda G,FLEXTRIDE PLUS,Sneakers basse,99.9,99.9,False,dove grey
+Azienda G,XAND 2S ,Sandali,89.9,89.9,False,black
+Azienda G,HERREN  U SPHERICA PLUS FAST IN U65MPE 06KEK C1999,Sneakers basse,119.9,119.9,False,off white brown
+Azienda C,Stringate,braun,110.0,93.5,True,
+Azienda C,- TORFORD EASY 47,Mocassini,90.0,76.5,True,braun
+Azienda G,DEIVEN,Sneakers basse,109.9,109.9,False,black
+Azienda G,SNEAKER,Sneakers basse,118.95,118.95,False,white/navy
+Azienda G,U SPHERICA,Scarpe senza lacci,135.0,135.0,False,navy
+Azienda C,GOSWELL,Sneakers basse,109.0,96.0,True,schwarz
+Azienda C,WALLABEE,Stringate sportive,159.99,135.99,True,maple
+Azienda G,Sneakers basse,sand c,99.9,99.9,False,
+Azienda C,POLDEN,Stringate sportive,129.98,116.95,True,navy
+Azienda G,IACOPO,Stringate eleganti,139.9,139.9,False,black
+Azienda G,U SPHERICA ECUB,Sneakers basse,139.9,139.9,False,navy
+Azienda G,UOMO SYMBOL,Stringate sportive,109.9,109.9,False,black
+Azienda G,BALTMOORE,Sneakers basse,109.9,109.9,False,bleu marine
+Azienda G,Sneakers basse,dark avio navy,119.0,101.0,True,
+Azienda G,Sneakers basse,noir,88.95,88.95,False,
+Azienda G,SPHERICA ACTIF,Sneakers basse,119.9,119.9,False,white musk
+Azienda G,GHITA,Sandali,79.9,79.9,False,dark coffee
+Azienda C,MEARE WALLA,Stringate,109.99,109.99,False,maple suede
+Azienda G,U SPHERICA EC,Mocassini,129.9,129.9,False,dark brown
+Azienda C,POLDEN,Stringate sportive,129.98,129.98,False,cola
+Azienda C,Stringate sportive,maple,159.99,159.99,False,
+Azienda C,CLEYHILL,Stringate sportive,108.0,108.0,False,dark sand
+Azienda G,Sneakers basse,dove grey c,109.9,109.9,False,
+Azienda G,SNEAKER,Sneakers basse,99.0,84.0,True,dk avio navy c kf
+Azienda G,Sneakers basse,navy,109.9,109.9,False,
+Azienda C,DESERT,Stivaletti stringati,134.25,134.25,False,sand
+Azienda G,TERRENO GRIP,Sandali da trekking,79.9,79.9,False,navy
+Azienda G,Mocassini,schwarz,129.99,109.99,True,
+Azienda G,U SPHERICA EC,Mocassini,129.9,129.9,False,dove grey
+Azienda C,WALLABEE,Stringate sportive,129.99,109.99,True,navy
+Azienda G,U SPHERICA ACTIF X1,Sneakers basse,119.0,101.0,True,musk
+Azienda G,FLEXTRIDE,Sneakers basse,87.9,87.9,False,black
+Azienda C,TORVIEW,Stringate sportive,139.99,83.99,True,navy
+Azienda G,DYNAMIA,Sneakers basse,145.0,145.0,False,white
+Azienda G,U METROPOLI,Sneakers basse,145.0,145.0,False,white natural
+Azienda G,STRADA,Sandali da trekking,79.99,67.99,True,brown/sand
+Azienda C,DESERT ,Stivaletti stringati,110.0,93.5,True,beige
+Azienda G,Espadrillas,sand,89.9,89.9,False,
+Azienda G,U URBANGLIDER,Sneakers basse,125.0,125.0,False,sand
+Azienda G,Sneakers basse,black,79.9,79.9,False,
+Azienda NG,Scarpe senza lacci,talpa,139.5,139.5,False,
+Azienda G,SPHERICA PLUS,Sneakers basse,139.9,139.9,False,black
+Azienda G,Stringate eleganti,black,99.9,99.9,False,
+Azienda G,SPHERICA ECUB,Sneakers basse,139.9,139.9,False,navy
+Azienda C,WALLABEE,Stringate sportive,159.99,159.99,False,grey
+Azienda C,CLARKS LIFESTYLE-SCHUHE M RADWELL TIE,Sneakers basse,99.95,99.95,False,navy suede
+Azienda G,U FLEXTRIDE F PLUS,Sneakers basse,109.0,87.2,True,navy
+Azienda G,U SPHERICA ACTIF X1,Sneakers basse,119.9,119.9,False,light grey
+Azienda G,Sandali,browncotto,89.99,89.99,False,
+Azienda G,U SPHERICA PLUS,Sneakers basse,109.9,109.9,False,musk u mpa kekc
+Azienda G,U METROPOLI,Sneakers basse,145.0,145.0,False,navy dark avio
+Azienda G,SPHERICA  ,Sneakers basse,99.9,99.9,False,grün
+Azienda NG,NEROGIARDINI,SNEAKERS UOMO,155.0,155.0,False,Sneakers basse - bianco
+Azienda G,RECANATI,Mocassini eleganti,119.0,101.0,True,black
+Azienda G,U SPHERICA ECUB-1 B,Sneakers basse,139.0,118.0,True,papyrus
+Azienda G,U S STRADA,Sandali da trekking,79.9,79.9,False,brown
+Azienda G,SPHERICA ACTIF,Sneakers basse,119.9,119.9,False,light grey/dark grey
+Azienda G,U SPHERICA,Scarpe senza lacci,135.0,135.0,False,dark brown
+Azienda G,U SERIFOS C6009 VAR,Mocassini,109.9,109.9,False,light brown
+Azienda G,U DYNAMIA,Sneakers basse,145.0,145.0,False,white natural
+Azienda C,SNEAKER TORHILL,Sneakers basse,119.95,119.95,False,weiß
+Azienda C,POLDEN MOC,Stringate sportive,85.0,85.0,False,verde
+Azienda G,DYNAMIA,Sneakers basse,145.0,145.0,False,navy
+Azienda G,STRADA,Sandali da trekking,79.9,79.9,False,black
+Azienda G,U BALTMOORE,Scarpe skate,98.96,98.96,False,black
+Azienda G,IACOPO,Stringate eleganti,139.9,139.9,False,black
+Azienda NG,Sneakers basse,avio,199.9,168.95,True,
+Azienda G,SEDRAL COURT,Sneakers basse,119.9,119.9,False,natural white
+Azienda C,SOLSBURY MULE,Pantofole,99.99,84.99,True,khaki
+Azienda G,U MEDOS,Mocassini eleganti,199.9,199.9,False,light brown
+Azienda C,GODNEY,Scarpe da barca,123.5,123.5,False,brown
+Azienda C,WALLABEEEVO,G,96.0,96.0,False,Mocassini - dark sand
+Azienda C,Sneakers basse,dark sand nubuck,140.0,140.0,False,
+Azienda NG,Stringate eleganti,nero,159.0,135.0,True,
+Azienda C,COURTLITE2 RUN,Sneakers basse,171.0,171.0,False,grey
+Azienda G,BALTMOORE,Sneakers basse,88.95,88.95,False,blue c
+Azienda C,LOAFER LOCKFORD EASY,Scarpe senza lacci,81.0,81.0,False,dark sand suede
+Azienda G,SERIFOS,Sneakers basse,99.9,99.9,False,off white/navy
+Azienda G,STRADA,Sandali da trekking,79.9,79.9,False,sand/navy
+Azienda G,SPHERICA ACTIF,Sneakers basse,119.9,119.9,False,white off white
+Azienda NG,Mocassini eleganti,nero,159.5,135.58,True,
+Azienda G,U S STRADA,Sandali da trekking,79.9,59.9,True,black
+Azienda G,U SPHERICA ACTIF X1,Sneakers basse,119.9,119.9,False,navy
+Azienda C,WALLABEE,Stringate sportive,159.99,159.99,False,brown
+Azienda NG,MOCASSINI,Scarpe senza lacci,142.0,142.0,False,marrone
+Azienda G,SPHERICA ECUB,Sneakers basse,139.9,139.9,False,papyrus
+Azienda G,Sneakers basse,schwarz,124.14,95.42,True,
+Azienda G,SPHERICA ECUB,Scarpe senza lacci,119.9,119.9,False,navy
+Azienda G,U WALK PLEASURE B,Stringate,169.9,169.9,False,black
+Azienda G,SPHERICA ECUB,Scarpe senza lacci,119.9,119.9,False,musk
+Azienda G,U SPHERICA EC17,Scarpe senza lacci,135.0,135.0,False,toffee
+Azienda G,U VITTOUR C4002 VAR,Sneakers basse,89.9,89.9,False,dark blue
+Azienda G,FLEXTRIDE PLUS,Scarpe senza lacci,129.9,96.95,True,light brown
+Azienda G,Stivaletti,black,104.9,104.9,False,
+Azienda C,Stringate sportive,dark sand lea,107.91,107.91,False,
+Azienda C,SNEAKER,Sneakers basse,139.98,118.95,True,navy leather
+Azienda G,U VITTOUR PLUS A,Sneakers basse,90.0,90.0,False,off white-dark grey
+Azienda C,UN ALDRIC LACE,Stringate eleganti,113.99,113.99,False,black
+Azienda C,WALLABEE,Stringate sportive,149.99,89.99,True,blue/green
+Azienda G,SNEAKER SPHERICA PLUS,Sneakers basse,109.9,109.9,False,weiß
+Azienda G,SEDRAL COURT,Sneakers basse,119.9,119.9,False,navy white
+Azienda C,WALLABEE EVO,Stringate,92.12,92.12,False,white leather
+Azienda G,Scarpe senza lacci,black,139.9,139.9,False,
+Azienda G,GHITA,Infradito,69.9,69.9,False,black
+Azienda G,GEOX HERREN,SNEAKER VITTOUR WEISS 42,100.0,100.0,False,Sneakers basse - weiß
+Azienda G,Espadrillas,toffee c,109.9,109.9,False,
+Azienda G,U REGIO,Sneakers basse,139.9,139.9,False,coffee
+Azienda G,SIRON,Scarpe senza lacci,99.99,89.99,True,dark brown
+Azienda G,U SEDRAL COURT,Sneakers basse,119.9,119.9,False,white/tan
+Azienda G,UOMO MONET,Mocassini,129.99,116.99,True,coffee
+Azienda C,LOCKFORD BOAT,Stringate sportive,90.0,90.0,False,blau
+Azienda G,SPHERICA,Stivaletti,139.9,110.0,True,black
+Azienda G,U ERICE,Ciabattine,69.9,69.9,False,coffee
+Azienda C,Scarpe da barca,dark sand combi,118.94,118.94,False,
+Azienda G,DEIVEN,Sneakers basse,81.95,81.95,False,black
+Azienda G,SPHERICA ,Scarpe senza lacci,129.9,129.9,False,black
+Azienda C,CLARKS HERREN,SLIPPER TORFORD EASY BLAU 43,81.0,81.0,False,Scarpe senza lacci - grey suede
+Azienda G,SPHERICA PLUS,Sneakers basse,99.95,99.95,False,military coffee
+Azienda C,DESERT BT EVO,Stivaletti stringati,134.84,134.84,False,noir
+Azienda G,U SPHERICA,Scarpe senza lacci,135.0,135.0,False,navy
+Azienda G,AERANTIS PLUS,Sneakers basse,149.99,126.99,True,navy
+Azienda G,CLARO,Sandali da trekking,79.9,79.9,False,marron claro
+Azienda G,STRADA,Sandali da trekking,79.9,79.9,False,navy/dark grey
+Azienda G,Stivaletti stringati,black,149.9,109.95,True,
+Azienda G,U BALTMOORE,Sneakers basse,99.9,99.9,False,light olive green
+Azienda G,Espadrillas,musk,89.9,89.9,False,
+Azienda G,MASSIMIANO,Stivaletti,109.9,81.95,True,navy uhbc
+Azienda G,U FLEXTRIDE S,Ciabattine,89.99,75.99,True,black
+Azienda G,U BARBERIGO,Stringate,145.0,145.0,False,cognac
+Azienda C,SCHUHE RADWELL TIE,Sneakers basse,99.95,99.95,False,brown leather
+Azienda G,PARNAIBA,Ciabattine,79.99,79.99,False,black
+Azienda G,Sneakers basse,black,149.9,149.9,False,
+Azienda G,U WALK PLEASURE B,Stringate,169.9,169.9,False,cognac
+Azienda G,U MEDOS,Mocassini eleganti,199.9,199.9,False,coffee
+Azienda G,U OSTUNI,Espadrillas,60.72,60.72,False,navy
+Azienda G,CAPITALE,Stringate eleganti,199.9,199.9,False,black
+Azienda G,GHITA,Ciabattine,89.9,89.9,False,coffee
+Azienda C,CRAFTRALLY ACE,Sneakers basse,109.95,109.95,False,black sde
+Azienda G,ELVER,Sneakers basse,114.99,114.99,False,azul
+Azienda G,RENAN,Sneakers basse,119.9,119.9,False,braun
+Azienda G,U SPHERICA EC1,Stivaletti,90.93,90.93,False,navy
+Azienda G,SPHERICA ACTIF,Sneakers basse,119.9,119.9,False,navy
+Azienda G,SPHERICA ACTIF,Sneakers basse,119.9,119.9,False,orange/black
+Azienda C,MEARE WALLA,Stringate sportive,109.99,98.99,True,black
+Azienda G,Mocassini,dove grey,99.0,84.0,True,
+Azienda G,RECANATI,Mocassini eleganti,119.9,119.9,False,coffee
+Azienda G,ELVER,Sneakers basse,114.99,114.99,False,marron
+Azienda G,Sneakers basse,white brown c,110.45,110.45,False,
+Azienda G,ISTRIA,Mocassini,99.9,99.9,False,dark brown
+Azienda G,AFFILE,Sneakers basse,114.99,114.99,False,blanco
+Azienda G,U SEDRAL COURT,Sneakers basse,119.9,119.9,False,navy
+Azienda G,U SERIFOS C1Z5Y VAR,Sneakers basse,89.9,89.9,False,white dim
+Azienda C,ALDWIN,Stringate,124.99,124.99,False,grey
+Azienda NG,Sneakers basse,bianco,159.0,143.1,True,
+Azienda G,U RIETI,Sneakers basse,81.0,81.0,False,grau
+Azienda G,SNAKE ORIGINAL,Sneakers basse,109.9,109.9,False,grey
+Azienda C,WEAVER,Stringate sportive,159.99,159.99,False,maple
+Azienda G,U AVERY C9002 VAR,Sneakers basse,89.9,89.9,False,light grey
+Azienda G,U SEDRAL COURT,Sneakers basse,119.9,119.9,False,papyrus light sand
+Azienda G,U WALEE VAR,Sneakers basse,89.9,89.9,False,mottled light gre
+Azienda G,SNAKE ORIGINAL,Sneakers basse,109.0,87.2,True,sand
+Azienda G,AFFILE,Sneakers basse,114.99,114.99,False,azul
+Azienda C,TORHILL LACE,Sneakers basse,119.95,119.95,False,ochre suede
+Azienda NG,MOCASSINI,Scarpe senza lacci,165.0,165.0,False,blu
+Azienda G,RAVEX VAR,Sneakers basse,89.9,89.9,False,screziato mottled black
+Azienda G,SEDRAL COURT,Sneakers basse,119.9,119.9,False,navy
+Azienda G,U VELLETRI,Sneakers basse,139.9,139.9,False,black
+Azienda G,MEDOS,Scarpe senza lacci,199.9,199.9,False,black
+Azienda G,SPHERICA ECUB,Scarpe senza lacci,119.9,119.9,False,toffee
+Azienda G,MEIERN,Stivaletti stringati,129.99,96.99,True,black
+Azienda G,U RENAN,Sneakers basse,119.9,119.9,False,black
+Azienda G,Scarpe da barca,jeans c,99.9,99.9,False,
+Azienda G,U VELLETRI,Sneakers basse,139.9,139.9,False,navy
+Azienda G,U AVERY,Sneakers basse,79.9,79.9,False,brown cotto
+Azienda G,Sneakers basse,navy c,98.72,98.72,False,
+Azienda G,U FLEXTRIDE R C9999 VAR,Sneakers basse,99.9,99.9,False,dark blue
+Azienda G,U SPHERICA,Stivali con i lacci,104.9,104.9,False,black
+Azienda C,WEAVER,Stringate sportive,159.99,159.99,False,pink
+Azienda C,Stivaletti stringati,beige,119.95,119.95,False,
+Azienda G,U VITTOUR C9999 VAR,Sneakers basse,89.9,89.9,False,screziato-mottled black
+Azienda G,U BALTMOORE,Sneakers basse,89.9,89.9,False,dove grey
+Azienda G,KOSMOPOLIS  GRIP,Scarpe da barca,119.9,119.9,False,olive
+Azienda C,SNEAKER CRAFTWICK,Sneakers basse,129.98,116.95,True,grau
+Azienda G,KOSMOPOLIS  GRIP,Scarpe da barca,89.99,89.99,False,navy
+Azienda G,GXRN-02,Sneakers basse,135.0,135.0,False,weiß
+Azienda G,SPHERICA ACTIF,Sneakers basse,119.9,119.9,False,lime/green/navy
+Azienda G,SPHERICA PLUS,Sneakers basse,99.95,99.95,False,navy/avio
+Azienda G,SPHERICA ACTIF,Sneakers basse,119.9,107.0,True,navy
+Azienda G,Ciabattine,blau,79.9,79.9,False,
+Azienda G,U SERIFOS C6009 VAR,Mocassini,109.9,109.9,False,dark blue
+Azienda G,U BALTMOORE,Sneakers basse,113.35,113.35,False,musk c
+Azienda G,U VITTOUR,Sneakers basse,99.9,99.9,False,black
+Azienda G,POVE,Stivaletti stringati,164.16,113.56,True,dark brown
+Azienda G,U MONER W,Mocassini,139.9,139.9,False,black
+Azienda G,Sandali da trekking,musk black cbb,70.4,70.4,False,
+Azienda C,SNEAKER SOLEVANA STYLE,Sneakers basse,85.0,85.0,False,black
+Azienda G,SPHERICA ECUB,Sneakers basse,139.9,139.9,False,navy
+Azienda G,U RENAN,Sneakers basse,119.9,119.9,False,white
+Azienda NG,Sneakers basse,neve,189.9,150.95,True,
+Azienda G,U PANTELLERIA,Espadrillas,109.9,109.9,False,navy
+Azienda G,U RENAN,Sneakers basse,119.9,119.9,False,navy
+Azienda G,URBANGLIDER,Sneakers basse,125.0,125.0,False,musc
+Azienda C,WALLA BOOT,Stivaletti stringati,119.99,119.99,False,white
+Azienda C,SOLSBURY MULE,Pantofole,84.99,84.99,False,dark sand suede
+Azienda G,U FLEXTRIDE S,Sandali da trekking,89.9,89.9,False,navy
+Azienda G,Stivaletti,blackc,119.9,99.95,True,
+Azienda G,U FLEXTRIDE S,Sandali da trekking,89.9,89.9,False,dove grey
+Azienda G,U PANTELLERIA,Scarpe senza lacci,89.9,89.9,False,dove grey
+Azienda G,AERANTIS PLUS,Sneakers basse,149.9,149.9,False,coffee
+Azienda C,SNEAKER BASSA UOMO LOCKFORD LACE,Scarpe skate,100.0,100.0,False,grigio
+Azienda G,U FLEXTRIDE R C9999 VAR,Sneakers basse,99.9,99.9,False,screziato-mottled black
+Azienda G,SNAKE ORIGINAL,Sneakers basse,109.9,109.9,False,military/dark grey
+Azienda G,U AVERY,Sneakers basse,99.9,99.9,False,azul
+Azienda G,U BRANTHON A  C4284 VAR,Sneakers basse,99.9,99.9,False,dark blue
+Azienda C,TORFORD STRAP,Sandali,103.41,103.41,False,schwarz
+Azienda G,Stivaletti,coffee c,119.9,83.95,True,
+Azienda C,WALLABEE,Stringate sportive,149.99,111.99,True,maple stripe
+Azienda G,SPHERICA ECUB,Sneakers basse,89.68,89.68,False,weiß
+Azienda C,Sneakers basse,blau,129.98,116.95,True,
+Azienda G,RENAN,Sneakers basse,119.9,119.9,False,navy
+Azienda G,U AVERY C9999 VAR,Sneakers basse,99.9,99.9,False,screziato-mottled black
+Azienda G,Sneakers alte,ochre dark coffee,127.9,127.9,False,
+Azienda C,WALLABEE,Stringate sportive,129.99,96.99,True,pale yellow
+Azienda G,U RIETI,Sneakers basse,99.99,99.99,False,verde
+Azienda C,WALLABEEEVO BT,G,91.0,91.0,False,Stivaletti stringati - dark sand suede
+Azienda G,Sneakers basse,brown cotto/black,134.95,134.95,False,
+Azienda G,SPHERICA ACTIF,Sneakers basse,119.9,119.9,False,dove grey dark navy
+Azienda G,SPHERICA ACTIF,Sneakers basse,119.9,119.9,False,dark avio black
+Azienda G,U AVERY,Sneakers basse,99.9,99.9,False,verde
+Azienda G,SPHERICA ECUB,Sneakers basse,139.9,139.9,False,musk
+Azienda C,WALLABEE,Stringate sportive,159.99,159.99,False,silver-coloured
+Azienda G,SNAKE ORIGINAL,Sneakers basse,129.98,103.95,True,brick
+Azienda G,U KLAIVER,Sneakers basse,89.9,89.9,False,grün
+Azienda G,SNEAKER GXRN,Sneakers basse,135.0,135.0,False,blau
+Azienda G,SPHERICA ACTIF,Sneakers basse,119.9,119.9,False,bleu marine noir
+Azienda G,U SPHERICA EC12,Sneakers basse,119.9,119.9,False,dove grey
+Azienda G,U PANTELLERIA,Espadrillas,109.9,109.9,False,sand
+Azienda G,U VITTOUR PLUS A,Sneakers basse,98.96,98.96,False,off white-sand (u659ka0ek14c0866)
+Azienda C,WALLABEE,Stringate sportive,159.99,87.99,True,multi-coloured
+Azienda C,WALLABEE,Stringate sportive,118.98,100.95,True,grün
+Azienda NG,Sneakers basse,blu,175.0,175.0,False,
+Azienda C,TORHILL,Stringate sportive,150.0,150.0,False,wine
+Azienda G,Stivaletti,light brown,109.9,81.95,True,
+Azienda G,U SPHERICA ACTIF X 4,Sneakers basse,135.59,116.39,True,navy
+Azienda G,PANTOLETTEN,Infradito,79.9,79.9,False,black c
+Azienda C,Stringate sportive,nero,119.77,119.77,False,
+Azienda G,SPHERICA,Stivaletti stringati,126.95,126.95,False,mud
+Azienda G,Sneakers basse,grün,106.5,106.5,False,
+Azienda C,Stivaletti stringati,grey combi,127.45,127.45,False,
+Azienda G,Sneakers basse,dunkelgrau,99.9,99.9,False,
+Azienda G,U PANTELLERIA,Scarpe senza lacci,89.9,89.9,False,navy
+Azienda G,BALTMOORE,Sneakers basse,98.96,98.96,False,avio
+Azienda G,Sneakers basse,mottled light gre,110.0,110.0,False,
+Azienda NG,Sneakers basse,avio,189.9,169.95,True,
+Azienda G,GHITA,Ciabattine,79.9,79.9,False,dark coffee
+Azienda G,VITTOUR,Sneakers basse,99.9,99.9,False,weiß
+Azienda C,Stivaletti stringati,black leather,177.05,112.69,True,
+Azienda G,PANTOLETTEN,Infradito,79.9,79.9,False,military c
+Azienda G,PLUS,Sneakers basse,139.9,139.9,False,braun
+Azienda G,GEOX,Mocassini eleganti,145.0,145.0,False,black
+Azienda G,Sneakers basse,weiß,109.95,109.95,False,
+Azienda G,SPHERICA,Stivaletti,99.95,99.95,False,coffee
+Azienda G,SPHERICA ACTIF,Sneakers basse,119.9,119.9,False,musk graphite
+Azienda NG,Sneakers basse,ivory,189.0,160.65,True,
+Azienda G,U SPHERICA EC1,Stivaletti,109.95,109.95,False,mud
+Azienda G,PARNAIBA,Ciabattine,79.9,79.9,False,dark brown
+Azienda G,Sneakers basse,weiß,149.0,119.2,True,
+Azienda NG,SNEAKER,Sneakers basse,199.9,158.95,True,yogurt
+Azienda NG,Sneakers basse,bianco,189.0,150.95,True,
+Azienda G,U SPHERICA ,Sneakers basse,129.9,129.9,False,navy
+Azienda C,WALLABEE,Stringate sportive,126.0,126.0,False,cola
+Azienda G,U CLAUDIO A  C1115 VAR,Stivaletti stringati,99.0,89.1,True,light grey
+Azienda G,Sandali da trekking,blau,96.98,81.95,True,
+Azienda G,KOSMOPOLIS  GRIP,Scarpe da barca,119.9,119.9,False,red
+Azienda C,Stivaletti stringati,black sde,84.0,84.0,False,
+Azienda G,SPHERICA ,Stivaletti stringati,126.95,126.95,False,mottled beige
+Azienda G,Stivaletti,mud c,98.91,98.91,False,
+Azienda G,U SPHERICA EC17,Stringate,135.0,135.0,False,toffee
+Azienda G,Stivaletti stringati,lt brown/black c,313.42,149.14,True,
+Azienda NG,Sneakers basse,fango,175.0,175.0,False,
+Azienda G,Stivaletti stringati,light brown,104.9,104.9,False,
+Azienda NG,SNEAKERS,Sneakers basse,159.5,159.5,False,bianco
+Azienda NG,SNEAKERS,Sneakers basse,149.5,149.5,False,blu
+Azienda G,AVERY,Sneakers basse,99.0,84.0,True,gris colombe
+Azienda NG,Stivaletti,blu,150.0,150.0,False,
+Azienda C,ORSON HARBOUR,Scarpe da barca,123.25,123.25,False,navy combi
+Azienda G,GEOX HERREN,SNEAKER VITTOUR GELB 42,98.96,98.96,False,Sneakers basse - gelb
+Azienda NG,Sneakers basse,bianco,209.9,209.9,False,
+Azienda G,SPHERICA ACTIF,Sneakers basse,119.9,119.9,False,sand dove grey c
+Azienda G,U SPHERICA EC1,Stivaletti,129.9,116.91,True,dark brown
+Azienda G,U ERICE VERT 39,Infradito,84.99,84.99,False,vert
+Azienda C,Stringate sportive,grün,134.95,134.95,False,
+Azienda G,FLEXTRIDE PLUS,Sneakers basse,87.9,87.9,False,military
+Azienda G,U PORTELLO B  C4002 VAR,Scarpe senza lacci,99.9,99.9,False,light grey
+Azienda G,Mocassini,dark avio,119.9,119.9,False,
+Azienda G,U SPHERICA EC17,Stringate sportive,135.0,135.0,False,dove grey
+Azienda G,Sneakers basse,light grey navy,119.0,101.0,True,
+Azienda G,SNEAKER GXRN,Sneakers basse,145.0,145.0,False,blau
+Azienda G,SPHERICA ECUB,Stivaletti stringati,126.95,126.95,False,black
+Azienda NG,Sneakers basse,blu,171.0,171.0,False,
+Azienda G,Stivaletti stringati,navy,119.9,89.9,True,
+Azienda G,Stivaletti stringati,braun,151.95,151.95,False,
+Azienda G,IACOPO,Stringate eleganti,139.9,139.9,False,coffee
+Azienda G,U CAPITALE,Stringate,199.9,199.9,False,light brown
+Azienda G,SPHERICA ACTIF,Sneakers basse,119.9,119.9,False,avio navy
+Azienda G,U SPHERICA ACTIF X 4,Sneakers basse,119.9,119.9,False,musk
+Azienda G,Sandali da trekking,sand,99.95,99.95,False,
+Azienda NG,Stringate,blu,135.0,135.0,False,
+Azienda NG,Stivaletti stringati,blu,112.0,112.0,False,
+Azienda G,Stivaletti,nero,96.95,96.95,False,
+Azienda G,SPHERICA,Sneakers basse,95.9,95.9,False,blau
+Azienda G,Stivaletti,navy,74.9,74.9,False,
+Azienda G,U SPHERICA ACTIF X 4,Sneakers basse,125.62,113.09,True,sand
+Azienda G,Stivaletti,dk coffee,74.9,74.9,False,
+Azienda G,Sneakers basse,nero,129.9,129.9,False,
+Azienda NG,Sneakers basse,savana,175.0,175.0,False,
+Azienda C,SOLSBURY SLIDE,Ciabattine,89.99,89.99,False,dark sand
+Azienda G,U SPHERICA ECUB-1 B C6009 VAR,Scarpe senza lacci,129.9,129.9,False,dark blue
+Azienda G,U SPHERICA EC7,Stivaletti,149.9,149.9,False,dark brown
+Azienda G,U ASCANIO VAR,Mocassini,99.9,99.9,False,mottled beige
+Azienda G,U SPHERICA ACTIF X2 B ABX D  C9999 VAR,Sneakers alte,169.9,169.9,False,screziato mottled black
+Azienda G,Stringate eleganti,black,139.9,139.9,False,
+Azienda NG,Sneakers basse,t moro,189.9,166.95,True,
+Azienda G,U SPHERICA,Stringate eleganti,97.99,97.99,False,coffee
+Azienda G,U SPHERICA EC17,Stringate sportive,135.0,135.0,False,navy
+Azienda NG,Sneakers basse,osso,189.9,160.95,True,
+Azienda G,U ASCANIO VAR,Mocassini,99.9,99.9,False,dark blue
+Azienda G,PLUS,Sneakers basse,139.9,139.9,False,musk black
+Azienda G,Stivaletti,military c,65.94,65.94,False,
+Azienda G,Ciabattine,navy c,79.9,79.9,False,
+Azienda C,CLARKDALE EASY,Stivaletti,152.95,152.95,False,mottled brown
+Azienda NG,Sneakers basse,marrone,119.6,119.6,False,
+Azienda G,U SPHERICA EC7,Stivaletti,194.87,194.87,False,brown cotto
+Azienda G,U CAPITALE,Stringate,199.9,199.9,False,coffee
+Azienda C,SOLSBURY MULE,Pantofole,89.99,89.99,False,cola suede
+Azienda C,WALLABEE,Stringate sportive,160.0,124.9,True,dark brown
+Azienda G,U STRADA,Sandali da trekking,79.9,79.9,False,dark brown
+Azienda G,U WALK PLEASURE ,Stringate,169.9,169.9,False,dark brown
+Azienda NG,Sneakers basse,tortora,141.0,141.0,False,
+Azienda G,SNAKE ORIGINAL,Sneakers basse,109.9,109.9,False,ochre
+Azienda G,Sandali da trekking,military,96.98,87.25,True,
+Azienda NG,Mocassini eleganti,nero,140.0,140.0,False,
+Azienda G,U STRADA,Sandali da trekking,79.9,79.9,False,black
+Azienda NG,SNEAKERS,Sneakers basse,155.0,155.0,False,beige
+Azienda G,Stivaletti stringati,brown,152.91,152.91,False,
+Azienda G,XAND 2S U35BGB ,Ciabattine,89.9,76.0,True,schwarz
+Azienda G,U FLEXTRIDE F PLUS,Sneakers basse,109.9,109.9,False,black
+Azienda NG,OSAKA NOVI LIGHT,Stivaletti stringati,157.05,157.05,False,t di moro
+Azienda G,Scarpe senza lacci,black,129.9,129.9,False,
+Azienda G,MONREALE,Sneakers basse,94.99,94.99,False,gris
+Azienda G,SPHERICA,Stivaletti stringati,129.9,129.9,False,navy
+Azienda G,Scarpe senza lacci,screziato mottled black,99.0,84.0,True,
+Azienda G,Stivaletti stringati,light brown,109.9,87.9,True,
+Azienda G,U SPHERICA ACTIF X S,Sandali da trekking,89.9,89.9,False,military
+Azienda G,Stivaletti stringati,braun coffee,89.9,89.9,False,
+Azienda G,Stivaletti,screziato-mottled black,104.9,104.9,False,
+Azienda G,GHITA,Ciabattine,79.9,79.9,False,black
+Azienda G,U656JA0T522,Sneakers basse,149.0,119.2,True,white
+Azienda G,U ERICE,Ciabattine,69.9,69.9,False,black
+Azienda G,LEITAN,Sneakers basse,99.9,99.9,False,noir
+Azienda G,TERRESTRE 40,Stivali da neve ,144.99,144.99,False,schwarz
+Azienda G,SPHERICA,Stivaletti stringati,168.87,168.87,False,military
+Azienda G,U SPHERICA ECUB-1 B C6009 VAR,Scarpe senza lacci,129.9,129.9,False,light brown
+Azienda G,MULES À ENFILER GEOX FLEXTRIDE,Ciabattine,89.9,89.9,False,dove gris
+Azienda G,U XAND 2S,Sandali,99.0,99.0,False,navy
+Azienda NG,Sneakers basse,talpa,189.0,151.15,True,
+Azienda G,U SPHERICA ACTIF X S,Sandali da trekking,89.9,89.9,False,navy
+Azienda G,Sneakers basse,blau,134.99,134.99,False,
+Azienda C,Stivaletti stringati,black,194.98,194.98,False,
+Azienda G,U SIRON BLEU 41,Mocassini,99.0,84.15,True,bleu
+Azienda NG,Stringate eleganti,marrone,134.9,134.9,False,
+Azienda G,U SPHERICA PLUS C9999 VAR,Sneakers basse,139.9,139.9,False,screziato-mottled black
+Azienda G,U SPHERICA PLUS,Sneakers basse,109.0,93.0,True,red
+Azienda C,INFRADITO WESLEY SUN,Infradito,79.99,79.99,False,marrone
+Azienda G,Stivaletti stringati,schwarz c,89.9,89.9,False,
+Azienda C,WALLABEEEVO,G,201.0,201.0,False,Mocassini - dark olive sde
+Azienda G,U ISTRIA C6006 VAR,Stringate sportive,99.9,99.9,False,dark blue
+Azienda NG,NEROGIARDINI,SNEAKERS UOMO,177.0,177.0,False,Sneakers basse - blu
+Azienda G,Stivaletti stringati,black c,89.9,89.9,False,
+Azienda G,Sneakers alte,black,143.95,143.95,False,
+Azienda G,U FLEXTRIDE S,Ciabattine,89.9,89.9,False,navy (u652jb000ekc4002)
+Azienda G,GHITA,Ciabattine,89.9,89.9,False,black
+Azienda G,Stivaletti stringati,dark blue,81.95,81.95,False,
+Azienda G,Stivaletti stringati,taupe c,89.9,89.9,False,
+Azienda G,Stringate,blu,109.9,109.9,False,
+Azienda G,Sneakers alte,black,111.95,111.95,False,
+Azienda G,TERRENO GRIP,Sandali da trekking,79.9,79.9,False,military
+Azienda NG,SNEAKERS,Sneakers basse,169.5,169.5,False,blu
+Azienda G,U SPHERICA EC5 B,NBK SINT. C9997 VAR,89.9,89.9,False,Sandali da trekking - light grey
+Azienda G,Sandali da trekking,dk navy black,79.9,79.9,False,
+Azienda G,GEOX HERREN,SNEAKER GXRN BLAU 41,149.0,119.2,True,Sneakers basse - blau
+Azienda G,MONER,Mocassini,139.9,139.9,False,black
+Azienda G,SPHERICA PLUS,Sneakers basse,99.95,99.95,False,black
+Azienda G,Sneakers basse,c graphite,116.91,116.91,False,
+Azienda G,Stivaletti stringati,screziato mottled black,104.9,104.9,False,
+Azienda G,PELLE,Stivaletti stringati,96.95,96.95,False,black
+Azienda G,Sneakers basse,c dk brown,129.9,129.9,False,
+Azienda G,BASKETS U55MPA GEOX,Sneakers basse,109.9,109.9,False,blue
+Azienda C,Stringate sportive,dark brown suede,120.0,120.0,False,
+Azienda G,U ISTRIA C6006 VAR,Stringate sportive,99.9,99.9,False,light brown
+Azienda C,WALLABEE,Stringate sportive,119.95,119.95,False,brown combi
+Azienda G,U SPHERICA ACTIF X S,Sandali da trekking,89.9,89.9,False,black
+Azienda C,WALLABEEGTX,Stringate sportive,230.0,230.0,False,maple suede
+Azienda G,SCHUHE U PARNAIBA,Ciabattine,79.9,79.9,False,military ukac
+Azienda NG,Stivaletti,anthracite,159.0,159.0,False,
+Azienda NG,AROLD,Scarpe senza lacci,154.0,154.0,False,mottled beige
+Azienda G,PANTOLETTEN,Infradito,79.9,79.9,False,navy
+Azienda C,POLACCO DESERT,Stivaletti stringati,150.0,120.0,True,marrone
+Azienda G,GRANITO,Stivaletti stringati,160.95,160.95,False,schwarz
+Azienda G,SPHERICA ACTIF,Sandali da trekking,99.99,99.99,False,schwarz
+Azienda G,Sandali da trekking,dove grey black,89.9,89.9,False,
+Azienda G,Sandali da trekking,dark navy black,89.9,89.9,False,
+Azienda G,CAPITALE,Stringate eleganti,199.9,199.9,False,black
+Azienda G,HENREYS,Stivaletti,110.0,110.0,False,screziato-mottled black
+Azienda NG,NEROGIARDINI,SANDALI UOMO,85.0,85.0,False,Sandali - marrone
+Azienda C,185565,Stringate sportive,140.0,119.0,True,brown
+Azienda NG,Sneakers alte,taupe,94.99,94.99,False,
+Azienda G,Sandali da trekking,musk black,89.9,89.9,False,
+Azienda NG,ILCEA TR NOVI LIGHT ,Stivaletti,179.0,125.3,True,nero
+Azienda G,GRANITO,Stivali da neve ,159.95,159.95,False,black
+Azienda G,Mocassini,black,98.9,98.9,False,
+Azienda NG,NEROGIARDINI,SANDALI UOMO,85.0,85.0,False,Ciabatte da mare - marrone
+Azienda C,Stivali da neve ,sand,170.95,170.95,False,
+Azienda NG,EXTON  MOCASSINO PEMBREY IN VITELLO TOSCANO,Scarpe senza lacci,169.5,169.5,False,t.moro
+Azienda NG,Stivaletti,nero,192.0,192.0,False,
+Azienda NG,NEROGIARDINI,SANDALI UOMO,85.0,85.0,False,Ciabatte da mare - nero
+Azienda G,GHITA,Ciabattine,79.9,79.9,False,dove grey
+Azienda G,U SANDAL GHITA B MARRON 40,Ciabattine,84.99,84.99,False,marron
+Azienda NG,NEROGIARDINI,SANDALI UOMO,85.0,85.0,False,Sandali - nero
+Azienda G,Stivaletti stringati,military/black c,197.71,142.31,True,
+Azienda G,HENREYS,Stivaletti,110.0,110.0,False,mottled beige
+Azienda C,BADELL HI WP ,Stivaletti stringati,142.31,142.31,False,schwarz
+Azienda C,Stivali da neve ,black wlined lea,139.73,139.73,False,
+Azienda NG,EXTON  MOCASSINO PEMBREY IN VITELLO TOSCANO,Scarpe senza lacci,169.5,169.5,False,jeans
+Azienda G,SCHUHE U PARNAIBA,Ciabattine,79.9,79.9,False,yellow
+Azienda G,Sandali da trekking,marron clair rust,62.9,62.9,False,
+Azienda G,UOMO FEDERICO,Stringate eleganti,95.9,95.9,False,black
+Azienda C,DESERT BT EVO,Stivaletti stringati,109.74,109.74,False,blue
+Azienda C,LOCKFORD EASY,Scarpe senza lacci,89.99,89.99,False,brown
+Azienda C,SNEAKER,Sneakers basse,101.99,101.99,False,grau
+Azienda C,ATTICUS,Stringate eleganti,99.99,99.99,False,black
+Azienda C,CRAFTREMI LACE,Stringate,109.99,109.99,False,black
+Azienda G,WELLS,Sneakers basse,99.99,64.99,True,dark grey
+Azienda C,HOWARD CAP,Stringate,99.99,99.99,False,black
+Azienda C,TORVIEW,Stringate,129.99,83.99,True,black
+Azienda G,U ADACTER M,Stringate sportive,79.9,63.5,True,navy
+Azienda C,CRAFTREMI TIP,Stringate,114.99,97.99,True,black
+Azienda C,Stringate sportive,grau,109.98,109.98,False,
+Azienda C,CRAFTREMI ,Stringate eleganti,123.38,123.38,False,braun
+Azienda C,WALLABEE,Stringate sportive,119.99,119.99,False,black
+Azienda C,UN COSTA LACE,Sneakers basse,110.0,110.0,False,navy
+Azienda C,COSTA LACE,Sneakers basse,110.0,110.0,False,white
+Azienda C,CRAFTREMI LACE,Stringate,109.99,109.99,False,brown
+Azienda C,STEP URBAN MIX,Sneakers basse,47.4,47.4,False,navy
+Azienda C,ALDWIN STEP,Scarpe senza lacci,109.99,109.99,False,black
+Azienda C,CRAFTREMI TIP,Stringate,114.99,114.99,False,tan
+Azienda C,GOSWELL TIE,Sneakers basse,109.0,96.0,True,braun
+Azienda C,TORVIEW,Stringate sportive,139.99,139.99,False,multi-coloured
+Azienda G,DEIVEN,Sneakers basse,109.95,109.95,False,light brown
+Azienda C,ALDWIN,Stringate,115.4,115.4,False,beige
+Azienda G,SPHERICA ,Scarpe senza lacci,129.9,129.9,False,coffee
+Azienda G,UOMO SYMBOL,Stringate sportive,116.95,116.95,False,browncotto
+Azienda G,FLEXTRIDE,Sneakers basse,87.9,87.9,False,white
+Azienda C,WALLABEE,Stringate sportive,129.99,129.99,False,light pink
+Azienda G,Sneakers basse,navy,87.9,87.9,False,
+Azienda C,Stringate sportive,blau,109.98,109.98,False,
+Azienda C,NATURE THREE,Stringate sportive,139.95,139.95,False,black
+Azienda C,CLARKS LIFESTYLE-SCHUHE M RADWELL TIE,Sneakers basse,102.82,102.82,False,cola suede g
+Azienda G,MASSIMIANO,Scarpe senza lacci,74.9,74.9,False,dark blue
+Azienda C,WALLABEE,Stringate sportive,139.99,90.99,True,green
+Azienda C,Stringate eleganti,black leather,85.0,85.0,False,
+Azienda C,NEWFORD,Stivaletti,119.95,119.95,False,brown leather
+Azienda C,CRAFTARLO LIMIT,Stringate,119.99,119.99,False,black leather
+Azienda C,CRAFT JAMES LO,Scarpe senza lacci,159.99,159.99,False,dark green combination
+Azienda G,SPHERICA ECUB,Sneakers basse,135.95,135.95,False,wine
+Azienda C,Stringate sportive,dark sand suede,114.98,96.95,True,
+Azienda C,HALBSCHUHE,Scarpe da barca,98.95,98.95,False,navy nubuck
+Azienda G,U ECUB,Sneakers basse,123.98,111.55,True,white navy
+Azienda G,DEIVEN,Sneakers basse,109.9,109.9,False,navy
+Azienda G,SPHERICA ECUB,Sneakers basse,135.95,135.95,False,military
+Azienda G,Scarpe senza lacci,black,95.9,95.9,False,
+Azienda G,U SPHERICA ACTIF,Sneakers basse,105.0,105.0,False,dark red
+Azienda C,DESERT ,Stivaletti stringati,109.99,109.99,False,brown
+Azienda C,Stringate sportive,beeswax leather,204.0,204.0,False,
+Azienda C,UN ALDRIC ,Stringate eleganti,130.9,130.9,False,black
+Azienda C,COURTLITE RUN,Sneakers basse,103.2,103.2,False,white
+Azienda G,U WALEE,Sneakers basse,94.99,94.99,False,grün
+Azienda C,HOWARD WALK,Stringate eleganti,99.99,99.99,False,dark tan
+Azienda C,CRAFTJAMES,Mocassini eleganti,159.99,159.99,False,brown
+Azienda C,CLARKS HERREN,SLIPPER TORFORD EASY BLAU 43,109.58,109.58,False,Scarpe senza lacci - blau
+Azienda C,BADBURY HI,Stivaletti stringati,103.9,103.9,False,black wlined lea
+Azienda G,SPHERICA,Stivaletti stringati,150.0,150.0,False,dark brown
+Azienda G,U ECUB,Sneakers basse,90.0,90.0,False,navy
+Azienda G,U CORDUSIO,Stringate sportive,103.9,103.9,False,navy
+Azienda G,SPHERICA,Sandali da trekking,99.99,99.99,False,black
+Azienda G,Stivaletti,black,207.87,207.87,False,
+Azienda G,Sneakers basse,navy,142.24,99.95,True,
+Azienda G,Stivaletti stringati,wine,96.95,96.95,False,
+Azienda C,Stringate sportive,off white int,129.6,129.6,False,
+Azienda G,Sneakers basse,white  c,126.95,126.95,False,
+Azienda C,ALDWIN,Stringate eleganti,141.78,111.58,True,black leather
+Azienda G,Sneakers basse,toffee,123.98,111.55,True,
+Azienda G,SPHERICA,Stivaletti stringati,168.87,168.87,False,dove grey
+Azienda G,Sneakers basse,browncotto,130.0,116.95,True,
+Azienda C,Sneakers basse,khaki,87.18,87.18,False,
+Azienda G,BALTMOORE,Sneakers basse,136.16,136.16,False,white green
+Azienda NG,Sneakers alte,marrone,144.0,144.0,False,
+Azienda C,CRAFTARLO LACE,Stringate eleganti,119.99,119.99,False,tan
+Azienda G,SPHERICA,Sneakers basse,125.95,125.95,False,dove grey black
+Azienda G,SNAKE ORIGINAL,Sneakers basse,116.63,116.63,False,black
+Azienda C,Sneakers basse,black,85.0,85.0,False,
+Azienda G,Sneakers basse,weiß,115.68,115.68,False,
+Azienda G,BALTMOORE,Sneakers basse,119.95,119.95,False,taupe
+Azienda G,SNEAKER,Sneakers basse,118.95,118.95,False,black c
+Azienda G,SPHERICA,Stringate sportive,99.95,99.95,False,navy
+Azienda G,SPHERICA ECUB,Sneakers basse,89.68,89.68,False,blau
+Azienda NG,Stivaletti,marrone,155.0,108.5,True,
+Azienda G,POVE,Stivaletti stringati,193.8,130.0,True,black
+Azienda G,SPHERICA,Stivaletti,129.9,129.9,False,navy
+Azienda C,Sneakers basse,white combi,96.98,87.25,True,
+Azienda C,MEARE MOCC,Ciabattine,109.99,109.99,False,dark sand suede
+Azienda NG,Sneakers alte,nero,144.0,144.0,False,
+Azienda NG,Stivaletti stringati,marrone,135.6,135.6,False,
+Azienda G,GRANITO  GRIP,Sneakers alte,128.64,128.64,False,navy
+Azienda NG,Sneakers basse,fango,199.9,199.9,False,
+Azienda C,Stringate sportive,oakwood,140.0,140.0,False,
+Azienda G,BALTMOORE,Sneakers basse,130.0,130.0,False,navy dark avio
+Azienda NG,Stringate,marrone,141.0,141.0,False,
+Azienda NG,Stivaletti stringati,marrone,112.0,112.0,False,
+Azienda NG,Stringate eleganti,blu,159.5,159.5,False,
+Azienda C,CLARKRIDGE HI,Stivaletti stringati,189.98,189.98,False,black
+Azienda C,Stivaletti stringati,khaki,159.0,159.0,False,
+Azienda G,U GRIP B AB,Sneakers basse,207.87,207.87,False,black
+Azienda C,DESERT,Stivaletti stringati,150.0,150.0,False,cola
+Azienda G,Stivaletti,black,89.93,89.93,False,
+Azienda G,U SPHERICA ECUB-1,Sneakers alte,99.95,99.95,False,dark coffee
+Azienda G,U BRAYDEN 2FIT ABX B,Stivaletti,159.9,159.9,False,black
+Azienda G,SPHERICA ACTIF,Stivaletti stringati,275.0,275.0,False,black
+Azienda C,Mocassini,brown,114.0,114.0,False,
+Azienda G,PORTELLO  VAR,Sneakers basse,74.9,74.9,False,dark blue
+Azienda C,COURTLITERUN NUBUK 26176724,Sneakers basse,130.0,130.0,False,blue
+Azienda C,Stringate sportive,navy,137.98,137.98,False,
+Azienda C,BERHILL MIDGTX ,Stivaletti stringati,180.0,180.0,False,braun
+Azienda G,U BRAYDEN ,Stivaletti stringati,169.9,169.9,False,black
+Azienda G,Sneakers basse,grau,135.95,135.95,False,
+Azienda G,MEIERN,Stivaletti stringati,129.9,116.91,True,coffee
+Azienda NG,Sneakers basse,bianco,122.9,122.9,False,
+Azienda G,Sneakers basse,black,74.9,74.9,False,
+Azienda G,SNAKE 2.0,Sneakers basse,118.95,118.95,False,skin
+Azienda G,Stivaletti stringati,screziato mottled black,110.0,110.0,False,
+Azienda C,BATCOMBE,Stringate eleganti,156.16,131.11,True,black
+Azienda NG,Stivaletti stringati,marrone,171.0,171.0,False,
+Azienda C,Sneakers basse,sand combi,105.0,84.0,True,
+Azienda C,TORHILL,Stringate sportive,129.95,129.95,False,dark brown
+Azienda C,TORHILL HI,Stringate sportive,130.0,130.0,False,black
+Azienda C,CLARKWOOD,Stringate sportive,139.98,139.98,False,navy
+Azienda G,U XAND 2S,Sandali,99.0,99.0,False,military
+Azienda G,U SPHERICA PLUS,Sneakers basse,97.0,97.0,False,military
+Azienda C,SALTWAY COVE ,Sandali da trekking,123.98,111.55,True,marron
+Azienda C,NATURE THREE,Stringate sportive,128.55,128.55,False,mahagony
+Azienda G,Sneakers basse,c grey,99.95,99.95,False,
+Azienda G,SPHERICA,Stringate sportive,168.87,168.87,False,brown cotto
+Azienda G,SPHERICA ECUB,Sneakers basse,83.93,83.93,False,black
+Azienda G,BASKET SPHERICA,Sneakers basse,83.93,83.93,False,marine
+Azienda C,TORHILL LO,Stringate sportive,111.55,111.55,False,dark olive combi
+Azienda NG,Sneakers basse,blu,111.6,111.6,False,
+Azienda NG,Sneakers alte,nero,136.0,136.0,False,
+Azienda G,Sneakers basse,ice/white,124.15,124.15,False,
+Azienda C,Sneakers basse,weiß,119.2,119.2,False,
+Azienda NG,Stivaletti stringati,brown,141.9,141.9,False,
+Azienda G,Sneakers basse,navy,116.95,116.95,False,
+Azienda C,POLDEN,Stringate sportive,139.0,139.0,False,a grey canvas
+Azienda C,BATCOMBE LORD,Stivaletti stringati,152.95,152.95,False,noir
+Azienda C,Scarpe senza lacci,navy suede,114.98,103.45,True,
+Azienda C,Stivaletti stringati,black leather,139.99,139.99,False,
+Azienda NG,Stivaletti,nero,149.5,149.5,False,
+Azienda C,ROSSDALE ,Stivaletti stringati,179.26,179.26,False,brown wlined lea
+Azienda G,UOMO MONET,Mocassini,94.98,94.98,False,blue
+Azienda G,SPHERICA ECUB 1,Scarpe senza lacci,155.87,155.87,False,navy
+Azienda C,Stivaletti stringati,dark sand wlined,161.95,161.95,False,
+Azienda C,Stringate sportive,navy combi,150.0,150.0,False,
+Azienda C,Stivaletti stringati,dark sand suede,140.0,140.0,False,
+Azienda C,SOLSBURY EASY,Stivaletti,152.95,152.95,False,brown
+Azienda C,Stivaletti stringati,black wlined lea,161.95,161.95,False,
+Azienda C,POLDEN MOC,Stringate sportive,103.2,103.2,False,grün
+Azienda C,Stivaletti stringati,schwarz,160.0,160.0,False,
+Azienda G,SYMBOL,Stringate sportive,109.99,109.99,False,black
+Azienda C,CLARKDALE EASY,Stivaletti,159.99,159.99,False,black
+Azienda C,CRAFTARLO LIMIT,Stringate,119.99,119.99,False,tan
+Azienda C,WALLABEEGTX,Stringate sportive,229.99,229.99,False,black
+Azienda C,WALLABEE,Stringate sportive,129.99,129.99,False,beeswax
