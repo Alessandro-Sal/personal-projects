@@ -5,8 +5,6 @@
 > **Departamento:** Administração  
 > **Período:** 2025
 
-**Autor:** Alessandro Saladino — n° USP 16995880
-
 ---
 
 ## Resumo
