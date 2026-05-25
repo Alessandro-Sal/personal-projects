@@ -5,7 +5,6 @@ Welcome to my personal repository! Here you will find a collection of my coding 
 ## 📑 Table of Contents
 - [About Me](#-about-me)
 - [Tech Stack](#%EF%B8%8F-tech-stack)
-- [Featured Projects](#-featured-projects)
 - [Repository Structure](#-repository-structure)
 - [Contact](#-contact)
 
@@ -17,22 +16,14 @@ I am a professional with experience in IT Technical Support, Data Analysis, and 
 * **Data & Analytics:** Pandas, Power Query, Stata, Excel
 * **Tools & Others:** MySQL, SQLyog, Google Apps Script
 
-## 🌟 Featured Projects
-
-### 📈 Wealth Manager (SPA)
-A comprehensive Single Page Application developed to aggregate market data, news feeds, and track a diversified portfolio (Stocks, ETFs, Crypto, Bonds, Real Estate). It includes custom XIRR logic, asset class segmentation, and a default "Privacy Mode" for secure data viewing.
-
-### 🦠 COVID-19 Data Normalization & Analysis
-Data analysis project handling governmental datasets. Focused on data normalization, Power Query modeling, and extracting actionable insights regarding vaccine efficacy and real positivity rates.
-
-### 🗄️ Relational Database Modeling
-Design and implementation of Entity-Relationship architectures, including complex SQL flows and schema creation for business processes (e.g., *Vendocose S.P.A.* and family-business tracking systems). 
-
 ## 📁 Repository Structure
-- 📂 **Python:** Data analysis notebooks (Financial indexes, Footwear analysis, COVID-19 diffusion).
-- 📂 **SQL:** EER diagrams, schema creation scripts, and process flows.
-- 📂 **Excel:** Advanced data modeling and dashboards.
-- 📂 **Stata:** Statistical analysis and research data.
+Rather than a single application, this repository serves as a broad archive of my technical experiments and learning progress across different domains:
+
+- 📂 **Python:** Scripts and Jupyter Notebooks dedicated to data pipelines, web scraping, data cleaning, and exploratory data analysis.
+- 📂 **SQL:** Database modeling concepts, Entity-Relationship (EER) diagrams, schema creation scripts, and queries handling complex business logic.
+- 📂 **Excel:** Advanced spreadsheet data modeling, data normalization exercises, and dashboards.
+- 📂 **Stata:** Datasets and scripts used for academic statistical research and health-related data analysis.
+- 📂 **Others:** Various technical notes, academic papers, and bibliometric studies.
 
 ## 📫 Contact
 - **LinkedIn:** [https://www.linkedin.com/in/alessandro-saladino/]
