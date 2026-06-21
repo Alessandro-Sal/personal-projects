@@ -56,16 +56,6 @@ Il progetto è composto da due script Python (in `Job Application Tracker.ipynb`
   4. **Aziende con Colloqui Fissati** — focus sulle aziende che hanno portato a un colloquio.
 - Esporta il risultato in `dashboard_interattiva.html`, apribile direttamente nel browser (auto-open all'esecuzione dello script).
 
-## 📊 Stato attuale dei dati
-
-Dal CSV incluso nel progetto (70 email classificate, 29 aziende coinvolte):
-
-| Stato | Conteggio |
-|---|---|
-| Candidatura Ricevuta | 64 |
-| Colloquio / Riunione Fissata | 4 |
-| Colloquio (Update/Reminder stesso giorno) | 2 |
-
 ## 🚀 Setup
 
 ### Requisiti
